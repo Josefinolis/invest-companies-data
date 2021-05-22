@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Autozone",
     "current_year": 2019,
     "price": 1285.52,
@@ -147,6 +148,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "MTY food",
     "current_year": 2019,
     "price": 55.63,
@@ -295,6 +297,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "Aercap",
     "current_year": 2019,
     "price": 60.93,
@@ -442,6 +445,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Judges scientific",
     "current_year": 2019,
     "price": 58.90,
@@ -589,6 +593,7 @@
     ]
   },
   {
+    "id": 5,
     "name": "Google",
     "current_year": 2019,
     "price": 2061.92,
@@ -737,6 +742,7 @@
     ]
   },
   {
+    "id": 6,
     "name": "National Health Investors",
     "current_year": 2019,
     "price": 76.18,
@@ -885,6 +891,7 @@
     ]
   },
   {
+    "id": 7,
     "name": "Caretrust Reit",
     "current_year": 2019,
     "price": 23.90,
@@ -1033,6 +1040,7 @@
     ]
   },
   {
+    "id": 8,
     "name": "Ali Baba",
     "current_year": 2019,
     "price": 1509.13,
@@ -1181,6 +1189,7 @@
     ]
   },
   {
+    "id": 9,
     "name": "S & U PLC",
     "current_year": 2019,
     "price": 22.40,
@@ -1327,6 +1336,7 @@
     ]
   },
   {
+    "id": 10,
     "name": "SSNC",
     "current_year": 2019,
     "price": 68.41,
@@ -1480,6 +1490,7 @@
     ]
   },
   {
+    "id": 11,
     "name": "Api Group",
     "current_year": 2019,
     "price": 20.49,
@@ -1604,6 +1615,7 @@
     ]
   },
   {
+    "id": 12,
     "name": "Sopra Steria",
     "current_year": 2019,
     "price": 136.00,
@@ -1754,6 +1766,7 @@
     ]
   },
   {
+    "id": 13,
     "name": "Societé pour l'Informatique Industrielle",
     "current_year": 2019,
     "price": 25.40,
@@ -1904,6 +1917,7 @@
     ]
   },
   {
+    "id": 14,
     "name": "Nagarro",
     "current_year": 2020,
     "price": 86.40,
@@ -2064,6 +2078,7 @@
     ]
   },
   {
+    "id": 15,
     "name": "Cambria Automobile",
     "current_year": 2020,
     "price": 0.64,
@@ -2219,6 +2234,7 @@
     ]
   },
   {
+    "id": 16,
     "name": "Relais",
     "current_year": 2020,
     "price": 17.00,
@@ -2370,6 +2386,7 @@
     ]
   },
   {
+    "id": 17,
     "name": "Amazon",
     "current_year": 2019,
     "price": 3089.49,
@@ -2518,6 +2535,7 @@
     ]
   },
   {
+    "id": 18,
     "name": "Allgeier",
     "current_year": 2020,
     "price": 22.70,
@@ -2673,6 +2691,7 @@
     ]
   },
   {
+    "id": 19,
     "name": "Colliers",
     "current_year": 2019,
     "price": 103.10,
@@ -2822,6 +2841,7 @@
     ]
   },
   {
+    "id": 20,
     "name": "Enghouse Systems",
     "current_year": 2019,
     "price": 61.41,
@@ -2970,6 +2990,7 @@
     ]
   },
   {
+    "id": 21,
     "name": "Facebook",
     "current_year": 2019,
     "price": 268.40,
@@ -3117,6 +3138,7 @@
     ]
   },
   {
+    "id": 22,
     "name": "Louis Vuitton",
     "current_year": 2019,
     "price": 563.40,
@@ -3266,6 +3288,7 @@
     ]
   },
   {
+    "id": 23,
     "name": "Neurones",
     "current_year": 2019,
     "price": 31,
@@ -3415,6 +3438,7 @@
     ]
   },
   {
+    "id": 24,
     "name": "Nike",
     "current_year": 2020,
     "price": 140.45,
@@ -3562,6 +3586,7 @@
     ]
   },
   {
+    "id": 25,
     "name": "Northrop Grumman",
     "current_year": 2019,
     "price": 301.79,
@@ -3710,6 +3735,7 @@
     ]
   },
   {
+    "id": 26,
     "name": "Heico",
     "current_year": 2019,
     "price": 130.70,
@@ -3858,6 +3884,7 @@
     ]
   },
   {
+    "id": 27,
     "name": "SDI Group",
     "current_year": 2020,
     "price": 1.80,
@@ -4004,6 +4031,7 @@
     ]
   },
   {
+    "id": 28,
     "name": "Econocom",
     "current_year": 2020,
     "price": 3.3,
@@ -4151,6 +4179,7 @@
     ]
   },
   {
+    "id": 29,
     "name": "BredBand 2",
     "current_year": 2020,
     "price": 2.10,
