@@ -4328,10 +4328,10 @@
     ]
   },
   {
-    "id": 29
+    "id": 29,
     "name": "Next Fifteen",
     "current_year": 2020,
-    "price": 7.5,
+    "price": 8.4,
     "currency": "GBP",
     "ticker": "NFC",
     "type": "Technology",
