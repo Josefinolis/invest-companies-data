@@ -4482,24 +4482,24 @@
     ]
   },
   {
-  "id":30,
-  "name": "Atrys Health",
-  "current_year": 2020,
-  "price": 9.14,
-  "currency": "EUR",
-  "ticker": "ATRY",
-  "type": "Medical",
-  "sales_growth": 0.45,
-  "margin_ebit": 0.18,
-  "tax_rate": 0.25,
-  "multiple_PER": 25,
-  "multiple_P_FCF": 30,
-  "multiple_EV_EBITDA": 20,
-  "multiple_EBIT": 15,
-  "notes": [
-    { "display": "Sales growth calculation is based on the fact that atrys increased organically from 2018 to 2019 reveneus in almost 80% and covid impacted in that growth for 2020, so tentativelly a 45% has been put there" }
-  ],
-  "historic_data": [
+    "id": 30,
+    "name": "Atrys Health",
+    "current_year": 2020,
+    "price": 9.14,
+    "currency": "EUR",
+    "ticker": "ATRY",
+    "type": "Medical",
+    "sales_growth": 0.45,
+    "margin_ebit": 0.18,
+    "tax_rate": 0.25,
+    "multiple_PER": 25,
+    "multiple_P_FCF": 30,
+    "multiple_EV_EBITDA": 20,
+    "multiple_EBIT": 15,
+    "notes": [
+      { "display": "Sales growth calculation is based on the fact that atrys increased organically from 2018 to 2019 reveneus in almost 80% and covid impacted in that growth for 2020, so tentativelly a 45% has been put there" }
+    ],
+    "historic_data": [
       {
         "year": 2014,
         "sales": 0,
@@ -4629,6 +4629,166 @@
         "year": 2025,
         "fully_diluted_shares": 46,
         "net_debt": 50
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "GDI Integrated facility services",
+    "current_year": 2020,
+    "price": 56,
+    "currency": "",
+    "ticker": "GDI.TO",
+    "type": "",
+    "sales_growth": 0.16,
+    "margin_ebit": 0.045,
+    "tax_rate": 0.21,
+    "multiple_PER": 25,
+    "multiple_P_FCF": 25,
+    "multiple_EV_EBITDA": 15,
+    "multiple_EBIT": 23,
+    "historic_data": [
+      {
+        "year": 2014,
+        "sales": 602,
+        "depreciation_and_amortization": 17,
+        "ebit": 16.1,
+        "interest_expense_income": 5.9,
+        "income_taxes": 2.5,
+        "minority_interest": -2.5,
+        "fully_diluted_shares": 1.2,
+        "capex": 11,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 13,
+        "total_debt": 142,
+        "goodwill": 143,
+        "equity": 63
+      },
+      {
+        "year": 2015,
+        "sales": 715,
+        "depreciation_and_amortization": 16,
+        "ebit": 11.7,
+        "interest_expense_income": 5.5,
+        "income_taxes": 23,
+        "minority_interest": 1,
+        "fully_diluted_shares": 14,
+        "capex": 8,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 4,
+        "total_debt": 148,
+        "goodwill": 144,
+        "equity": 207
+      },
+      {
+        "year": 2016,
+        "sales": 873,
+        "depreciation_and_amortization": 20,
+        "ebit": 15,
+        "interest_expense_income": 5.5,
+        "income_taxes": 2.7,
+        "minority_interest": 0,
+        "fully_diluted_shares": 21.2,
+        "capex": 10,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 1,
+        "total_debt": 140,
+        "goodwill": 144,
+        "equity": 222
+      },
+      {
+        "year": 2017,
+        "sales": 969,
+        "depreciation_and_amortization": 22,
+        "ebit": 23,
+        "interest_expense_income": 5.5,
+        "income_taxes": 5.8,
+        "minority_interest": 0,
+        "fully_diluted_shares": 21.4,
+        "capex": 11,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 1,
+        "total_debt": 109,
+        "goodwill": 147,
+        "equity": 232
+      },
+      {
+        "year": 2018,
+        "sales": 1103,
+        "depreciation_and_amortization": 22,
+        "ebit": 28,
+        "interest_expense_income": 6.3,
+        "income_taxes": 5.9,
+        "minority_interest": 0,
+        "fully_diluted_shares": 21.2,
+        "capex": 12,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 1.8,
+        "total_debt": 161,
+        "goodwill": 171,
+        "equity": 250
+      },
+      {
+        "year": 2019,
+        "sales": 1285,
+        "depreciation_and_amortization": 33,
+        "ebit": 35,
+        "interest_expense_income": 8.7,
+        "income_taxes": 5.6,
+        "minority_interest": 0,
+        "fully_diluted_shares": 21.3,
+        "capex": 17,
+        "leases_cost": 12,
+        "cash_and_cash_equivalents": 3.8,
+        "total_debt": 180,
+        "goodwill": 177,
+        "equity": 261
+      },
+      {
+        "year": 2020,
+        "sales": 1411,
+        "depreciation_and_amortization": 42,
+        "ebit": 52,
+        "interest_expense_income": 6,
+        "income_taxes": 10,
+        "minority_interest": 0,
+        "fully_diluted_shares": 22.7,
+        "capex": 15,
+        "leases_cost": 15,
+        "cash_and_cash_equivalents": 3.5,
+        "total_debt": 173,
+        "goodwill": 213,
+        "equity": 339
+      },
+      {
+        "year": 2021,
+        "interest_expense_income": 6,
+        "fully_diluted_shares": 23,
+        "net_debt": 160
+      },
+      {
+        "year": 2022,
+        "interest_expense_income": 6,
+        "fully_diluted_shares": 23,
+        "net_debt": 160
+      },
+      {
+        "year": 2023,
+        "interest_expense_income": 6,
+        "fully_diluted_shares": 24,
+        "net_debt": 160
+      },
+      {
+        "year": 2024,
+        "interest_expense_income": 6,
+        "fully_diluted_shares": 24,
+        "net_debt": 160
+      },
+      {
+        "year": 2025,
+        "interest_expense_income": 6,
+        "fully_diluted_shares": 24,
+        "net_debt": 160
       }
     ]
   }
