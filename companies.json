@@ -4497,7 +4497,7 @@
   "multiple_EV_EBITDA": 20,
   "multiple_EBIT": 15,
   "notes": [
-    { "display", "Sales growth calculation is based on the fact that atrys increased organically from 2018 to 2019 reveneus in almost 80% and covid impacted in that growth for 2020, so tentativelly a 45% has been put there" }
+    { "display": "Sales growth calculation is based on the fact that atrys increased organically from 2018 to 2019 reveneus in almost 80% and covid impacted in that growth for 2020, so tentativelly a 45% has been put there" }
   ],
   "historic_data": [
       {
