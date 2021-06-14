@@ -4480,5 +4480,156 @@
         "net_debt": -25
       }
     ]
+  },
+  {
+  "id":30,
+  "name": "Atrys Health",
+  "current_year": 2020,
+  "price": 9.14,
+  "currency": "EUR",
+  "ticker": "ATRY",
+  "type": "Medical",
+  "sales_growth": 0.45,
+  "margin_ebit": 0.18,
+  "tax_rate": 0.25,
+  "multiple_PER": 25,
+  "multiple_P_FCF": 30,
+  "multiple_EV_EBITDA": 20,
+  "multiple_EBIT": 15,
+  "notes": [
+    { "Sales growth calculation is based on the fact that atrys increased organically from 2018 to 2019 reveneus in almost 80% and covid impacted in that growth for 2020, so tentativelly a 45% has been put there" }
+  ],
+  "historic_data": [
+      {
+        "year": 2014,
+        "sales": 0,
+        "depreciation_and_amortization": 0,
+        "ebit": 0,
+        "interest_expense_income": 0,
+        "income_taxes": 0,
+        "minority_interest": 0,
+        "fully_diluted_shares": 0,
+        "capex": 0,
+        "cash_and_cash_equivalents": 0,
+        "total_debt": 0,
+        "goodwill": 0,
+        "equity": 0
+      },
+      {
+        "year": 2015,
+        "sales": 0,
+        "depreciation_and_amortization": 0,
+        "ebit": 0,
+        "interest_expense_income": 0,
+        "income_taxes": 0,
+        "minority_interest": 0,
+        "fully_diluted_shares": 0,
+        "capex": 0,
+        "cash_and_cash_equivalents": 0,
+        "total_debt": 0,
+        "goodwill": 0,
+        "equity": 0
+      },
+      {
+        "year": 2016,
+        "sales": 4.5,
+        "depreciation_and_amortization": 1.18,
+        "ebit": 0.475,
+        "interest_expense_income": 0.62,
+        "income_taxes": 0.2,
+        "minority_interest": 0,
+        "fully_diluted_shares": 11.15,
+        "capex": 0,
+        "cash_and_cash_equivalents": 2.85,
+        "total_debt": 13.65,
+        "goodwill": 0,
+        "equity": 14.26
+      },
+      {
+        "year": 2017,
+        "sales": 6.03,
+        "depreciation_and_amortization": 1.11,
+        "ebit": 0.615,
+        "interest_expense_income": 1.07,
+        "income_taxes": 0.745,
+        "minority_interest": 0,
+        "fully_diluted_shares": 20.43,
+        "capex": 2.41,
+        "cash_and_cash_equivalents": 9.26,
+        "total_debt": 12.98,
+        "goodwill": 0,
+        "equity": 18.95
+      },
+      {
+        "year": 2018,
+        "sales": 7.3,
+        "depreciation_and_amortization": 1.28,
+        "ebit": 0.77,
+        "interest_expense_income": 0.7,
+        "income_taxes": -0.05,
+        "minority_interest": 0,
+        "fully_diluted_shares": 22.7,
+        "capex": 2.5,
+        "cash_and_cash_equivalents": 9.76,
+        "total_debt": 17.1,
+        "goodwill": 10,
+        "equity": 26.44
+      },
+      {
+        "year": 2019,
+        "sales": 14.8,
+        "depreciation_and_amortization": 1.9,
+        "ebit": 2.7,
+        "interest_expense_income": 1,
+        "income_taxes": 0.31,
+        "minority_interest": 0,
+        "fully_diluted_shares": 33.6,
+        "capex": 2.58,
+        "cash_and_cash_equivalents": 8.33,
+        "total_debt": 31.11,
+        "goodwill": 35.4,
+        "equity": 40
+      },
+      {
+        "year": 2020,
+        "sales": 31.4,
+        "depreciation_and_amortization": 3.82,
+        "ebit": 5.67,
+        "interest_expense_income": 3.22,
+        "income_taxes": 0.7,
+        "minority_interest": 0,
+        "fully_diluted_shares": 36.94,
+        "capex": 4.4,
+        "cash_and_cash_equivalents": 17.47,
+        "total_debt": 61.35,
+        "goodwill": 95,
+        "equity": 75.32
+      },
+      {
+        "year": 2021,
+        "fully_diluted_shares": 40,
+        "net_debt": 60
+      },
+      {
+        "year": 2022,
+        "fully_diluted_shares": 42,
+        "net_debt": 80
+      },
+      {
+        "year": 2023,
+        "fully_diluted_shares": 44,
+        "net_debt": 80
+      },
+      {
+        "year": 2024,
+        "fully_diluted_shares": 45,
+        "net_debt": 60
+      },
+      {
+        "year": 2025,
+        "fully_diluted_shares": 46,
+        "net_debt": 50
+      }
+    ]
   }
 ]
