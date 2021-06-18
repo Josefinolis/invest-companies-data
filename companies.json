@@ -150,8 +150,8 @@
   {
     "id": 1,
     "name": "MTY food",
-    "current_year": 2019,
-    "price": 60.74,
+    "current_year": 2020,
+    "price": 54.76,
     "currency": "CAD",
     "ticker": "MTY",
     "type": "Retail",
@@ -270,29 +270,43 @@
       },
       {
         "year": 2020,
-        "fully_diluted_shares": 25,
-        "net_debt": 520,
-        "sales": 520
+        "sales": 511,
+        "depreciation_and_amortization": 48,
+        "ebit": 89.4,
+        "interest_expense_income": 32.5,
+        "income_taxes": -15,
+        "minority_interest": 0.21,
+        "fully_diluted_shares": 24.7,
+        "capex": 5.6,
+        "cash_and_cash_equivalents": 44.3,
+        "total_debt": 1019,
+        "goodwill": 439,
+        "equity": 581.76
       },
       {
         "year": 2021,
         "fully_diluted_shares": 25,
-        "net_debt": 550
+        "net_debt": 1100
       },
       {
         "year": 2022,
-        "fully_diluted_shares": 26,
-        "net_debt": 570
+        "fully_diluted_shares": 25,
+        "net_debt": 1000
       },
       {
         "year": 2023,
-        "fully_diluted_shares": 27,
-        "net_debt": 600
+        "fully_diluted_shares": 26,
+        "net_debt": 900
       },
       {
         "year": 2024,
-        "fully_diluted_shares": 28,
-        "net_debt": 620
+        "fully_diluted_shares": 26,
+        "net_debt": 800
+      },
+      {
+        "year": 2025,
+        "fully_diluted_shares": 26,
+        "net_debt": 700
       }
     ]
   },
