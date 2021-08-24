@@ -4959,5 +4959,169 @@
         "net_debt": 6600
       }
     ]
+  },
+  {
+    "id": 33,
+    "name": "Alimentation Couch-tard",
+    "current_year": 2021,
+    "price": 40,
+    "currency": "CAD",
+    "ticker": "ATD",
+    "type": "",
+    "sales_growth": 0.15,
+    "margin_ebit": 0.06,
+    "tax_rate": 0.19,
+    "multiple_PER": 18,
+    "multiple_P_FCF": 18,
+    "multiple_EV_EBITDA": 12,
+    "multiple_EBIT": 16,
+    "historic_data": [
+      {
+        "year": 2015,
+        "sales": 34530,
+        "depreciation_and_amortization": 550,
+        "ebit": 1370,
+        "interest_expense_income": 70,
+        "income_taxes": 306,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1137,
+        "capex": 600,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 575,
+        "total_debt": 2500,
+        "goodwill": 0,
+        "equity": 1500
+      },
+      {
+        "year": 2016,
+        "sales": 34145,
+        "depreciation_and_amortization": 633,
+        "ebit": 1668,
+        "interest_expense_income": 83,
+        "income_taxes": 398,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1139,
+        "capex": 800,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 600,
+        "total_debt": 2800,
+        "goodwill": 0,
+        "equity": 1773
+      },
+      {
+        "year": 2017,
+        "sales": 37904,
+        "depreciation_and_amortization": 668,
+        "ebit": 1698,
+        "interest_expense_income": 105,
+        "income_taxes": 383,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1139,
+        "capex": 900,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 637,
+        "total_debt": 3300,
+        "goodwill": 0,
+        "equity": 2377
+      },
+      {
+        "year": 2018,
+        "sales": 51394,
+        "depreciation_and_amortization": 910,
+        "ebit": 2037,
+        "interest_expense_income": 240,
+        "income_taxes": 56,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1134,
+        "capex": 1050,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 666,
+        "total_debt": 8906,
+        "goodwill": 0,
+        "equity": 5845
+      },
+      {
+        "year": 2019,
+        "sales": 59117,
+        "depreciation_and_amortization": 1071,
+        "ebit": 2489,
+        "interest_expense_income": 290,
+        "income_taxes": 371,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1130,
+        "capex": 1000,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 706,
+        "total_debt": 6951,
+        "goodwill": 0,
+        "equity": 5683
+      },
+      {
+        "year": 2020,
+        "sales": 54132,
+        "depreciation_and_amortization": 1337,
+        "ebit": 3162,
+        "interest_expense_income": 275,
+        "income_taxes": 546,
+        "fully_diluted_shares": 1124,
+        "capex": 1320,
+        "leases_cost": 380,
+        "cash_and_cash_equivalents": 3641,
+        "total_debt": 7730,
+        "goodwill": 2640,
+        "equity": 5506
+      },
+      {
+        "year": 2021,
+        "sales": 45760,
+        "depreciation_and_amortization": 1359,
+        "ebit": 3675,
+        "interest_expense_income": 240,
+        "income_taxes": 653,
+        "minority_interest": 0,
+        "fully_diluted_shares": 1106,
+        "capex": 1100,
+        "leases_cost": 390,
+        "cash_and_cash_equivalents": 3015,
+        "goodwill": 3200,
+        "equity": 5946
+      },
+      {
+        "year": 2022,
+        "sales": 59000,
+        "interest_expense_income": 215,
+        "fully_diluted_shares": 1096,
+        "goodwill": 0,
+        "net_debt": 5500
+      },
+      {
+        "year": 2023,
+        "interest_expense_income": 190,
+        "fully_diluted_shares": 1085,
+        "goodwill": 0,
+        "net_debt": 5000
+      },
+      {
+        "year": 2024,
+        "interest_expense_income": 165,
+        "fully_diluted_shares": 1078,
+        "goodwill": 0,
+        "net_debt": 4500
+      },
+      {
+        "year": 2025,
+        "interest_expense_income": 140,
+        "fully_diluted_shares": 1070,
+        "goodwill": 0,
+        "net_debt": 4000
+      },
+      {
+        "year": 2026,
+        "interest_expense_income": 120,
+        "fully_diluted_shares": 1064,
+        "goodwill": 0,
+        "net_debt": 3500
+      }
+    ]
   }
 ]
