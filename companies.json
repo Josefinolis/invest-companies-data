@@ -4805,5 +4805,159 @@
         "net_debt": 160
       }
     ]
+  },
+  {
+    "id": 32,
+    "name": "Berry Global Group",
+    "current_year": 2021,
+    "price": 65,
+    "currency": "USD",
+    "ticker": "BERY",
+    "type": "",
+    "sales_growth": 0.1,
+    "margin_ebit": 0.11,
+    "tax_rate": 0.21,
+    "multiple_PER": 15,
+    "multiple_P_FCF": 15,
+    "multiple_EV_EBITDA": 10,
+    "multiple_EBIT": 15,
+    "historic_data": [
+      {
+        "year": 2015,
+        "sales": 4881,
+        "depreciation_and_amortization": 350,
+        "ebit": 450,
+        "interest_expense_income": 191,
+        "income_taxes": 36,
+        "minority_interest": 0,
+        "fully_diluted_shares": 124,
+        "capex": 180,
+        "cash_and_cash_equivalents": 228,
+        "total_debt": 3600,
+        "goodwill": 1652,
+        "equity": -65
+      },
+      {
+        "year": 2016,
+        "sales": 6489,
+        "depreciation_and_amortization": 525,
+        "ebit": 700,
+        "interest_expense_income": 291,
+        "income_taxes": 72,
+        "minority_interest": 0,
+        "fully_diluted_shares": 125,
+        "capex": 288,
+        "cash_and_cash_equivalents": 323,
+        "total_debt": 5700,
+        "goodwill": 2406,
+        "equity": 221
+      },
+      {
+        "year": 2017,
+        "sales": 7095,
+        "depreciation_and_amortization": 521,
+        "ebit": 790,
+        "interest_expense_income": 269,
+        "income_taxes": 109,
+        "minority_interest": 0,
+        "fully_diluted_shares": 132.6,
+        "capex": 269,
+        "cash_and_cash_equivalents": 306,
+        "total_debt": 5600,
+        "goodwill": 2775,
+        "equity": 1015
+      },
+      {
+        "year": 2018,
+        "sales": 7869,
+        "depreciation_and_amortization": 538,
+        "ebit": 820,
+        "interest_expense_income": 259,
+        "income_taxes": 60,
+        "minority_interest": 0,
+        "fully_diluted_shares": 135,
+        "capex": 333,
+        "cash_and_cash_equivalents": 381,
+        "total_debt": 5800,
+        "goodwill": 2944,
+        "equity": 1434
+      },
+      {
+        "year": 2019,
+        "sales": 8878,
+        "depreciation_and_amortization": 613,
+        "ebit": 900,
+        "interest_expense_income": 329,
+        "income_taxes": 115,
+        "minority_interest": 0,
+        "fully_diluted_shares": 134.5,
+        "capex": 399,
+        "cash_and_cash_equivalents": 750,
+        "total_debt": 11200,
+        "goodwill": 5051,
+        "equity": 1618
+      },
+      {
+        "year": 2020,
+        "sales": 11709,
+        "depreciation_and_amortization": 845,
+        "ebit": 1300,
+        "interest_expense_income": 435,
+        "income_taxes": 150,
+        "fully_diluted_shares": 135,
+        "capex": 583,
+        "cash_and_cash_equivalents": 750,
+        "total_debt": 10200,
+        "goodwill": 5173,
+        "equity": 2092
+      },
+      {
+        "year": 2021,
+        "sales": 13000,
+        "depreciation_and_amortization": 850,
+        "ebit": 1400,
+        "interest_expense_income": 360,
+        "income_taxes": 180,
+        "minority_interest": 0,
+        "fully_diluted_shares": 136,
+        "capex": 700,
+        "leases_cost": 390,
+        "cash_and_cash_equivalents": 800,
+        "total_debt": 9500,
+        "goodwill": 5200,
+        "equity": 2500,
+        "net_debt": 8700
+      },
+      {
+        "year": 2022,
+        "interest_expense_income": 320,
+        "fully_diluted_shares": 136,
+        "net_debt": 8300
+      },
+      {
+        "year": 2023,
+        "interest_expense_income": 300,
+        "fully_diluted_shares": 136,
+        "net_debt": 7900
+      },
+      {
+        "year": 2024,
+        "interest_expense_income": 280,
+        "fully_diluted_shares": 136,
+        "net_debt": 7400
+      },
+      {
+        "year": 2025,
+        "interest_expense_income": 260,
+        "fully_diluted_shares": 136,
+        "net_debt": 7000
+      },
+      {
+        "year": 2026,
+        "interest_expense_income": 250,
+        "fully_diluted_shares": 136,
+        "net_debt": 6600
+      }
+    ]
   }
 ]
