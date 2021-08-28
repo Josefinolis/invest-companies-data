@@ -5123,5 +5123,166 @@
         "net_debt": 3500
       }
     ]
+  },
+  {
+    "id": 34,
+    "name": "Next fifteen",
+    "current_year": 2020,
+    "price": 8.5,
+    "currency": "USD",
+    "ticker": "NFC",
+    "type": "",
+    "sales_growth": 0.15,
+    "margin_ebit": 0.19,
+    "tax_rate": 0.21,
+    "multiple_PER": 25,
+    "multiple_P_FCF": 25,
+    "multiple_EV_EBITDA": 14,
+    "multiple_EBIT": 17,
+    "historic_data": [
+      {
+        "year": 2014,
+        "sales": 109,
+        "depreciation_and_amortization": 2,
+        "ebit": 13,
+        "interest_expense_income": 3.5,
+        "income_taxes": 2,
+        "minority_interest": 1,
+        "fully_diluted_shares": 61,
+        "capex": 4.4,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 9.3,
+        "total_debt": 18,
+        "goodwill": 35,
+        "equity": 37
+      },
+      {
+        "year": 2015,
+        "sales": 130,
+        "depreciation_and_amortization": 2.5,
+        "ebit": 16.5,
+        "interest_expense_income": 0.5,
+        "income_taxes": 3,
+        "minority_interest": 0.4,
+        "fully_diluted_shares": 71,
+        "capex": 7,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 14.1,
+        "total_debt": 20,
+        "goodwill": 42,
+        "equity": 53
+      },
+      {
+        "year": 2016,
+        "sales": 171,
+        "depreciation_and_amortization": 4,
+        "ebit": 25,
+        "interest_expense_income": 0.7,
+        "income_taxes": 5,
+        "minority_interest": 0.5,
+        "fully_diluted_shares": 78,
+        "capex": 9,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 22,
+        "total_debt": 34,
+        "goodwill": 57,
+        "equity": 68
+      },
+      {
+        "year": 2017,
+        "sales": 197,
+        "depreciation_and_amortization": 4,
+        "ebit": 30,
+        "interest_expense_income": 0.8,
+        "income_taxes": 6,
+        "minority_interest": 0.6,
+        "fully_diluted_shares": 82,
+        "capex": 4.2,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 24.3,
+        "total_debt": 36,
+        "goodwill": 66,
+        "equity": 76
+      },
+      {
+        "year": 2018,
+        "sales": 224,
+        "depreciation_and_amortization": 5,
+        "ebit": 37,
+        "interest_expense_income": 1.2,
+        "income_taxes": 7,
+        "minority_interest": 0.6,
+        "fully_diluted_shares": 85,
+        "capex": 8,
+        "leases_cost": 0,
+        "cash_and_cash_equivalents": 20.5,
+        "total_debt": 26,
+        "goodwill": 79,
+        "equity": 111
+      },
+      {
+        "year": 2019,
+        "sales": 248,
+        "depreciation_and_amortization": 14.4,
+        "ebit": 40.8,
+        "interest_expense_income": 2.5,
+        "income_taxes": 8,
+        "minority_interest": 0.5,
+        "fully_diluted_shares": 90.9,
+        "capex": 5.2,
+        "leases_cost": 11,
+        "cash_and_cash_equivalents": 28.6,
+        "total_debt": 92,
+        "goodwill": 102,
+        "equity": 113
+      },
+      {
+        "year": 2020,
+        "sales": 267,
+        "depreciation_and_amortization": 13,
+        "ebit": 49.5,
+        "interest_expense_income": 2.3,
+        "income_taxes": 10,
+        "minority_interest": 1,
+        "fully_diluted_shares": 93,
+        "capex": 4,
+        "leases_cost": 12,
+        "cash_and_cash_equivalents": 26.8,
+        "total_debt": 55,
+        "goodwill": 110,
+        "equity": 117
+      },
+      {
+        "year": 2021,
+        "sales": 300,
+        "fully_diluted_shares": 95,
+        "leases_cost": 12,
+        "net_debt": 10
+      },
+      {
+        "year": 2022,
+        "fully_diluted_shares": 98,
+        "leases_cost": 13,
+        "net_debt": -10
+      },
+      {
+        "year": 2023,
+        "fully_diluted_shares": 100,
+        "leases_cost": 15,
+        "net_debt": -30
+      },
+      {
+        "year": 2024,
+        "fully_diluted_shares": 102,
+        "leases_cost": 16,
+        "net_debt": -50
+      },
+      {
+        "year": 2025,
+        "fully_diluted_shares": 104,
+        "leases_cost": 18,
+        "net_debt": -80
+      }
+    ]
   }
 ]
