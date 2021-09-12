@@ -4343,160 +4343,6 @@
   },
   {
     "id": 29,
-    "name": "Next Fifteen",
-    "current_year": 2020,
-    "price": 8.54,
-    "currency": "GBP",
-    "ticker": "NFC",
-    "type": "Technology",
-    "sales_growth": 0.2,
-    "margin_ebit": 0.17,
-    "tax_rate": 0.21,
-    "multiple_PER": 20,
-    "multiple_P_FCF": 25,
-    "multiple_EV_EBITDA": 14,
-    "multiple_EBIT": 15,
-    "historic_data": [
-      {
-        "year": 2014,
-        "sales": 158,
-        "depreciation_and_amortization": 5.1,
-        "ebit": 3.6,
-        "interest_expense_income": 3.5,
-        "income_taxes": -0.5,
-        "minority_interest": 1,
-        "fully_diluted_shares": 61,
-        "capex": 4.4,
-        "cash_and_cash_equivalents": 9.3,
-        "total_debt": 18,
-        "goodwill": 35,
-        "equity": 37
-      },
-      {
-        "year": 2015,
-        "sales": 130,
-        "depreciation_and_amortization": 6.1,
-        "ebit": 8.4,
-        "interest_expense_income": 3,
-        "income_taxes": 1.1,
-        "minority_interest": 0.4,
-        "fully_diluted_shares": 71,
-        "capex": 7,
-        "cash_and_cash_equivalents": 14.1,
-        "total_debt": 20,
-        "goodwill": 42,
-        "equity": 53
-      },
-      {
-        "year": 2016,
-        "sales": 171,
-        "depreciation_and_amortization": 9.5,
-        "ebit": 8,
-        "interest_expense_income": 4.7,
-        "income_taxes": 1.2,
-        "minority_interest": 0.5,
-        "fully_diluted_shares": 78,
-        "capex": 9,
-        "cash_and_cash_equivalents": 22,
-        "total_debt": 34,
-        "goodwill": 57,
-        "equity": 68
-      },
-      {
-        "year": 2017,
-        "sales": 197,
-        "depreciation_and_amortization": 11.5,
-        "ebit": 17.2,
-        "interest_expense_income": 4,
-        "income_taxes": 4,
-        "minority_interest": 0.6,
-        "fully_diluted_shares": 82,
-        "capex": 4.2,
-        "cash_and_cash_equivalents": 24.3,
-        "total_debt": 36,
-        "goodwill": 66,
-        "equity": 76
-      },
-      {
-        "year": 2018,
-        "sales": 272,
-        "depreciation_and_amortization": 13.8,
-        "ebit": 20.6,
-        "interest_expense_income": 2,
-        "income_taxes": 4.3,
-        "minority_interest": 0.6,
-        "fully_diluted_shares": 85,
-        "capex": 8,
-        "cash_and_cash_equivalents": 20.5,
-        "total_debt": 26,
-        "goodwill": 79,
-        "equity": 111
-      },
-      {
-        "year": 2019,
-        "sales": 301,
-        "depreciation_and_amortization": 17.7,
-        "ebit": 19.4,
-        "interest_expense_income": 2.5,
-        "income_taxes": 2.7,
-        "minority_interest": 0.5,
-        "fully_diluted_shares": 90.9,
-        "capex": 5.2,
-        "cash_and_cash_equivalents": 28.6,
-        "total_debt": 38,
-        "goodwill": 102,
-        "equity": 113
-      },
-      {
-        "year": 2020,
-        "sales": 266,
-        "depreciation_and_amortization": 13,
-        "ebit": 50,
-        "interest_expense_income": 2,
-        "income_taxes": 10,
-        "minority_interest": 1,
-        "fully_diluted_shares": 93,
-        "capex": 12,
-        "cash_and_cash_equivalents": 26.8,
-        "total_debt": 12.8,
-        "goodwill": 110,
-        "equity": 117
-      },
-      {
-        "year": 2021,
-        "sales": 290,
-        "interest_expense_income": 2,
-        "fully_diluted_shares": 95,
-        "net_debt": -25
-      },
-      {
-        "year": 2022,
-        "interest_expense_income": 2,
-        "fully_diluted_shares": 98,
-        "net_debt": -25
-      },
-      {
-        "year": 2023,
-        "interest_expense_income": 2,
-        "fully_diluted_shares": 100,
-        "net_debt": -25
-      },
-      {
-        "year": 2024,
-        "interest_expense_income": 2,
-        "fully_diluted_shares": 102,
-        "net_debt": -25
-      },
-      {
-        "year": 2025,
-        "interest_expense_income": 2,
-        "fully_diluted_shares": 104,
-        "net_debt": -25
-      }
-    ]
-  },
-  {
-    "id": 30,
     "name": "Atrys Health",
     "current_year": 2020,
     "price": 9.14,
@@ -4647,7 +4493,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "GDI Integrated facility services",
     "current_year": 2020,
     "price": 52.71,
@@ -4807,7 +4653,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "Berry Global Group",
     "current_year": 2021,
     "price": 65,
@@ -4960,7 +4806,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "Alimentation Couch-tard",
     "current_year": 2021,
     "price": 40,
@@ -5124,7 +4970,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "Next fifteen",
     "current_year": 2020,
     "price": 8.5,
