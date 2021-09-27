@@ -1,6 +1,5 @@
 [
   {
-    "id": 0,
     "name": "Autozone",
     "current_year": 2019,
     "price": 1378.93,
@@ -148,7 +147,6 @@
     ]
   },
   {
-    "id": 1,
     "name": "MTY food",
     "current_year": 2020,
     "price": 54.76,
@@ -311,7 +309,6 @@
     ]
   },
   {
-    "id": 2,
     "name": "Aercap",
     "current_year": 2019,
     "price": 57.86,
@@ -459,7 +456,6 @@
     ]
   },
   {
-    "id": 3,
     "name": "Judges scientific",
     "current_year": 2019,
     "price": 63.00,
@@ -607,7 +603,6 @@
     ]
   },
   {
-    "id": 4,
     "name": "Google",
     "current_year": 2019,
     "price": 2420.27,
@@ -756,7 +751,6 @@
     ]
   },
   {
-    "id": 5,
     "name": "National Health Investors",
     "current_year": 2019,
     "price": 67.20,
@@ -905,7 +899,6 @@
     ]
   },
   {
-    "id": 6,
     "name": "Caretrust Reit",
     "current_year": 2019,
     "price": 24.03,
@@ -1054,7 +1047,6 @@
     ]
   },
   {
-    "id": 7,
     "name": "Ali Baba",
     "current_year": 2019,
     "price": 1363.88,
@@ -1203,7 +1195,6 @@
     ]
   },
   {
-    "id": 8,
     "name": "S & U PLC",
     "current_year": 2019,
     "price": 26.20,
@@ -1350,7 +1341,6 @@
     ]
   },
   {
-    "id": 9,
     "name": "SSNC",
     "current_year": 2019,
     "price": 73.71,
@@ -1504,7 +1494,6 @@
     ]
   },
   {
-    "id": 10,
     "name": "Api Group",
     "current_year": 2019,
     "price": 22.33,
@@ -1629,7 +1618,6 @@
     ]
   },
   {
-    "id": 11,
     "name": "Sopra Steria",
     "current_year": 2019,
     "price": 149.40,
@@ -1780,7 +1768,6 @@
     ]
   },
   {
-    "id": 12,
     "name": "Societé pour l'Informatique Industrielle",
     "current_year": 2019,
     "price": 27.40,
@@ -1931,7 +1918,6 @@
     ]
   },
   {
-    "id": 13,
     "name": "Nagarro",
     "current_year": 2020,
     "price": 94.40,
@@ -2092,7 +2078,6 @@
     ]
   },
   {
-    "id": 14,
     "name": "Cambria Automobile",
     "current_year": 2020,
     "price": 0.81,
@@ -2248,7 +2233,6 @@
     ]
   },
   {
-    "id": 15,
     "name": "Relais",
     "current_year": 2020,
     "price": 19.85,
@@ -2400,7 +2384,6 @@
     ]
   },
   {
-    "id": 16,
     "name": "Amazon",
     "current_year": 2019,
     "price": 3324.61,
@@ -2549,7 +2532,6 @@
     ]
   },
   {
-    "id": 17,
     "name": "Allgeier",
     "current_year": 2020,
     "price": 23.15,
@@ -2705,7 +2687,6 @@
     ]
   },
   {
-    "id": 18,
     "name": "Colliers",
     "current_year": 2019,
     "price": 116.82,
@@ -2855,7 +2836,6 @@
     ]
   },
   {
-    "id": 19,
     "name": "Enghouse Systems",
     "current_year": 2019,
     "price": 53.78,
@@ -3004,7 +2984,6 @@
     ]
   },
   {
-    "id": 20,
     "name": "Facebook",
     "current_year": 2019,
     "price": 331.41,
@@ -3152,7 +3131,6 @@
     ]
   },
   {
-    "id": 21,
     "name": "Louis Vuitton",
     "current_year": 2019,
     "price": 662.50,
@@ -3302,7 +3280,6 @@
     ]
   },
   {
-    "id": 22,
     "name": "Neurones",
     "current_year": 2019,
     "price": 29.70,
@@ -3452,7 +3429,6 @@
     ]
   },
   {
-    "id": 23,
     "name": "Nike",
     "current_year": 2020,
     "price": 131.07,
@@ -3600,7 +3576,6 @@
     ]
   },
   {
-    "id": 24,
     "name": "Northrop Grumman",
     "current_year": 2019,
     "price": 371.88,
@@ -3749,7 +3724,6 @@
     ]
   },
   {
-    "id": 25,
     "name": "Heico",
     "current_year": 2019,
     "price": 145.32,
@@ -3898,7 +3872,6 @@
     ]
   },
   {
-    "id": 26,
     "name": "SDI Group",
     "current_year": 2020,
     "price": 1.98,
@@ -4045,7 +4018,6 @@
     ]
   },
   {
-    "id": 27,
     "name": "Econocom",
     "current_year": 2020,
     "price": 3.47,
@@ -4193,7 +4165,6 @@
     ]
   },
   {
-    "id": 28,
     "name": "BredBand 2",
     "current_year": 2020,
     "price": 2.15,
@@ -4342,7 +4313,6 @@
     ]
   },
   {
-    "id": 29,
     "name": "Atrys Health",
     "current_year": 2020,
     "price": 9.14,
@@ -4493,7 +4463,6 @@
     ]
   },
   {
-    "id": 30,
     "name": "GDI Integrated facility services",
     "current_year": 2020,
     "price": 52.71,
@@ -4653,7 +4622,6 @@
     ]
   },
   {
-    "id": 31,
     "name": "Berry Global Group",
     "current_year": 2021,
     "price": 65,
@@ -4806,7 +4774,6 @@
     ]
   },
   {
-    "id": 32,
     "name": "Alimentation Couch-tard",
     "current_year": 2021,
     "price": 40,
@@ -4970,7 +4937,6 @@
     ]
   },
   {
-    "id": 33,
     "name": "Next fifteen",
     "current_year": 2020,
     "price": 8.5,
