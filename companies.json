@@ -1,5 +1,5 @@
 {
-  "companies" : {
+  "companies": {
     "0": {
       "currency": "USD",
       "current_year": 2020,
@@ -152,38 +152,8 @@
     },
     "1": {
       "currency": "CAD",
-      "current_year": 2020,
+      "current_year": 2022,
       "historic_data": [
-        {
-          "capex": 1.2,
-          "cash_and_cash_equivalents": 6.1,
-          "depreciation_and_amortization": 5,
-          "ebit": 34,
-          "equity": 126.27,
-          "fully_diluted_shares": 19,
-          "goodwill": 46.1,
-          "income_taxes": 8.9,
-          "interest_expense_income": -0.2,
-          "minority_interest": 0,
-          "sales": 101,
-          "total_debt": 18.7,
-          "year": 2013
-        },
-        {
-          "capex": 0.7,
-          "cash_and_cash_equivalents": 6.7,
-          "depreciation_and_amortization": 7,
-          "ebit": 36,
-          "equity": 144.6,
-          "fully_diluted_shares": 19,
-          "goodwill": 54.4,
-          "income_taxes": 9.1,
-          "interest_expense_income": 0.3,
-          "minority_interest": 0,
-          "sales": 115,
-          "total_debt": 19.6,
-          "year": 2014
-        },
         {
           "capex": 3.5,
           "cash_and_cash_equivalents": 33.4,
@@ -194,6 +164,7 @@
           "goodwill": 55.5,
           "income_taxes": 9.7,
           "interest_expense_income": 0.3,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 145,
           "total_debt": 14.3,
@@ -209,6 +180,7 @@
           "goodwill": 220.9,
           "income_taxes": 13.8,
           "interest_expense_income": 3.6,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 191,
           "total_debt": 252.6,
@@ -224,6 +196,7 @@
           "goodwill": 227,
           "income_taxes": 12.8,
           "interest_expense_income": 9.9,
+          "leases_cost": 0,
           "minority_interest": 0.4,
           "sales": 276,
           "total_debt": 227.8,
@@ -239,6 +212,7 @@
           "goodwill": 357.1,
           "income_taxes": -16.1,
           "interest_expense_income": 11,
+          "leases_cost": 0,
           "minority_interest": 0.63,
           "sales": 412,
           "total_debt": 275.34,
@@ -254,6 +228,7 @@
           "goodwill": 509.5,
           "income_taxes": 20.2,
           "interest_expense_income": 16.9,
+          "leases_cost": 0,
           "minority_interest": 0.58,
           "sales": 551,
           "total_debt": 540.7,
@@ -269,19 +244,49 @@
           "goodwill": 439,
           "income_taxes": -15,
           "interest_expense_income": 32.5,
+          "leases_cost": 0,
           "minority_interest": 0.21,
           "sales": 511,
           "total_debt": 1019,
           "year": 2020
         },
         {
+          "adjusted_ebitda": 168.6,
+          "capex": 6.7,
+          "cash_and_cash_equivalents": 61.2,
+          "change_in_working_capital": 10.5,
+          "depreciation_and_amortization": 44.6,
+          "ebit": 125.9,
+          "equity": 647.6,
           "fully_diluted_shares": 25,
-          "net_debt": 1100,
+          "goodwill": 428.4,
+          "income_taxes": 26.1,
+          "interest_expense_income": 12.4,
+          "leases_cost": 0,
+          "minority_interest": 0.3,
+          "non_operating_income": 7.9,
+          "operating_income": 118,
+          "sales": 552,
+          "total_debt": 851,
           "year": 2021
         },
         {
+          "capex": 8,
+          "cash_and_cash_equivalents": 55.3,
+          "change_in_working_capital": -3.5,
+          "depreciation_and_amortization": 44,
           "fully_diluted_shares": 25,
+          "goodwill": 451,
+          "income_taxes": 24.68,
+          "interest_expense_income": 8,
+          "long_term_debt": 814,
+          "minority_interest": 0.35,
           "net_debt": 1000,
+          "net_income": 90.6,
+          "non_operating_income": -6,
+          "operating_income": 132,
+          "sales": 632,
+          "total_debt": 1184,
           "year": 2022
         },
         {
@@ -298,20 +303,30 @@
           "fully_diluted_shares": 26,
           "net_debt": 700,
           "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "id": 1,
+      "key": "1",
       "margin_ebit": 0.21,
       "multiple_EBIT": 13,
       "multiple_EV_EBITDA": 12,
       "multiple_PER": 15,
       "multiple_P_FCF": 15,
       "name": "MTY food",
-      "price": 54.76,
+      "notes": "Included impairment charges as part of operating expenses, 7.4M total, could it be removed from there?\nLooks like data from 2020, net income for instance is adjusted.\n2020 Total debt seems to be calculated from Long-term + Lease liabilities + Deferred income taxes, in 2021 calculating like this also.",
+      "price": 58.73,
       "sales_growth": 0.15,
       "tax_rate": 0.21,
-      "ticker": "MTY",
-      "type": "Retail"
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "MTY.TO",
+      "type": "Retail",
+      "update_date": "29/01/2023"
     },
     "2": {
       "currency": "USD",
@@ -620,45 +635,15 @@
     },
     "4": {
       "currency": "USD",
-      "current_year": 2020,
+      "current_year": 2022,
       "historic_data": [
-        {
-          "capex": 11000,
-          "cash_and_cash_equivalents": 64000,
-          "depreciation_and_amortization": 4979,
-          "ebit": 16496,
-          "equity": 103860,
-          "fully_diluted_shares": 687,
-          "goodwill": 15600,
-          "income_taxes": 3639,
-          "interest_expense_income": -650,
-          "minority_interest": 0,
-          "sales": 66000,
-          "total_debt": 5200,
-          "year": 2014
-        },
-        {
-          "capex": 9900,
-          "cash_and_cash_equivalents": 73000,
-          "depreciation_and_amortization": 5063,
-          "ebit": 19360,
-          "equity": 120331,
-          "fully_diluted_shares": 692,
-          "goodwill": 15800,
-          "income_taxes": 3303,
-          "interest_expense_income": -800,
-          "minority_interest": 0,
-          "sales": 74989,
-          "total_debt": 5200,
-          "year": 2015
-        },
         {
           "capex": 10200,
           "cash_and_cash_equivalents": 86000,
           "depreciation_and_amortization": 6144,
           "ebit": 23716,
           "equity": 139036,
-          "fully_diluted_shares": 699,
+          "fully_diluted_shares": 13980,
           "goodwill": 16400,
           "income_taxes": 4672,
           "interest_expense_income": -1100,
@@ -673,7 +658,7 @@
           "depreciation_and_amortization": 6915,
           "ebit": 26146,
           "equity": 152502,
-          "fully_diluted_shares": 703,
+          "fully_diluted_shares": 14060,
           "goodwill": 16700,
           "income_taxes": 14531,
           "interest_expense_income": -1200,
@@ -688,7 +673,7 @@
           "depreciation_and_amortization": 9035,
           "ebit": 27524,
           "equity": 177628,
-          "fully_diluted_shares": 703,
+          "fully_diluted_shares": 14060,
           "goodwill": 17800,
           "income_taxes": 4177,
           "interest_expense_income": -1800,
@@ -701,13 +686,13 @@
           "capex": 23500,
           "cash_and_cash_equivalents": 120000,
           "depreciation_and_amortization": 11781,
-          "ebit": 34231,
           "equity": 201442,
-          "fully_diluted_shares": 699,
+          "fully_diluted_shares": 13980,
           "goodwill": 20600,
           "income_taxes": 5282,
           "interest_expense_income": -2300,
           "minority_interest": 0,
+          "net_income": 34343,
           "sales": 161857,
           "total_debt": 4500,
           "year": 2019
@@ -716,41 +701,64 @@
           "capex": 22300,
           "cash_and_cash_equivalents": 137000,
           "depreciation_and_amortization": 13679,
-          "ebit": 41224,
           "equity": 222544,
-          "fully_diluted_shares": 695,
+          "fully_diluted_shares": 13900,
           "goodwill": 21200,
           "income_taxes": 7813,
           "interest_expense_income": -1700,
           "minority_interest": 0,
           "net_debt": -121500,
+          "net_income": 40269,
           "sales": 182527,
           "total_debt": 13900,
           "year": 2020
         },
         {
-          "fully_diluted_shares": 695,
-          "net_debt": -150000,
-          "sales": 250000,
+          "capex": 22640,
+          "cash_and_cash_equivalents": 139649,
+          "depreciation_and_amortization": 12430,
+          "equity": 251635,
+          "fully_diluted_shares": 13553,
+          "goodwill": 22956,
+          "income_taxes": 14701,
+          "interest_expense_income": -1150,
+          "net_income": 76033,
+          "sales": 257637,
+          "total_debt": 14817,
           "year": 2021
         },
         {
-          "fully_diluted_shares": 695,
-          "net_debt": -170000,
+          "capex": 30000,
+          "cash_and_cash_equivalents": 116000,
+          "depreciation_and_amortization": 15600,
+          "equity": 250000,
+          "fully_diluted_shares": 13553,
+          "goodwill": 29000,
+          "net_income": 60000,
+          "sales": 280000,
+          "total_debt": 14653,
           "year": 2022
         },
         {
-          "fully_diluted_shares": 695,
+          "fully_diluted_shares": 13553,
           "net_debt": -185000,
           "year": 2023
         },
         {
-          "fully_diluted_shares": 695,
+          "fully_diluted_shares": 13553,
           "net_debt": -200000,
           "year": 2024
         },
         {
+          "fully_diluted_shares": 13553,
           "year": 2025
+        },
+        {
+          "fully_diluted_shares": 13553,
+          "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "id": 4,
@@ -762,12 +770,14 @@
       "multiple_P_FCF": 30,
       "name": "Google",
       "notes": "EBIT, Capex and Total debt were picked from 10-k fillings, other data from TIKR.",
-      "price": 2730.86,
+      "price": 94.51,
       "sales_growth": 0.17,
+      "summary": "For the 6 months ended 30 June\nRevenues +17-18%\nNet income -11%\nMain difference is Other income, debt and equity securities which was +7.4B for 2021 and -1.6B 2022 without taking into account this difference, it would be +11%\n\nFor the quarter ended 30 September\nRevenues +6% (+11% on a constant currency basis)\nNet income -27% Increased total costs and expenses by 8k and Other income went from +2 to -1",
       "tax_rate": 0.17,
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "GOOGL",
       "type": "Technology",
-      "update_date": "02/10/2021"
+      "update_date": "28/01/2023"
     },
     "5": {
       "currency": "USD",
@@ -1189,19 +1199,18 @@
       "id": 7,
       "key": "7",
       "margin_ebit": 0.2,
-      "multiple_EBIT": 20,
-      "multiple_EV_EBITDA": 12,
-      "multiple_PER": 18,
-      "multiple_P_FCF": 14,
+      "multiple_EV_EBITDA": 11,
+      "multiple_PER": 16,
+      "multiple_P_FCF": 13,
       "name": "Ali Baba",
       "notes": "Calculation of EBIT, doing consolidated net income + interests + taxes.\nCAPEX taken from Notes to consolidated financial statements, Capital commitments:\n- Purchase of property and equipment\n- Construction of corporate campuses",
       "price": 562.33,
-      "sales_growth": 0.15,
+      "sales_growth": 0.1,
       "tax_rate": 0.18,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "BABA",
       "type": "Technology",
-      "update_date": "4/23/2022"
+      "update_date": "04/10/2022"
     },
     "8": {
       "currency": "GBP",
@@ -1504,23 +1513,9 @@
     },
     "10": {
       "currency": "USD",
-      "current_year": 2021,
+      "current_year": 2022,
+      "guidance": "From press releases: Stock repurchase of 250M$\n\nFrom Q2 earnings presentation\nOrganic growth 13,9%, growth of 75% net revenue\nGross margin 26,6%\nGuidance 2022\n- net revenue 6.4-6.5\n- adjusted EBITDA 650-675\n- net debt in Q2 2022 / adjusted EBITDA is 3.9x, end of 2023 target is 2.5x\n\nGuidance from Q3 earnings presentation\nExpected 10% organic growth for Q4\n- net revenue 6.4-6.5\n- adjusted EBITDA 650-675\n- Adjusted free cash flow 372 to 392\n- net debt in Q3 2022 / adjusted EBITDA is 3.6x, end of 2023 target is 2.0x - 2.5x\n\n2022 EBITDA is adjusted one from guidance\n\nfrom last presentations in 2022: Guidance 2025\n- Service and monitoring representing 60%+ of total net revenues\n- EBITDA margin to 13% by 2025\n- Adjusted free cash flow conversion of ~80%\n- Net Debt/EBITDA leverage to 2.0-2.5x",
       "historic_data": [
-        {
-          "capex": 39,
-          "cash_and_cash_equivalents": 41,
-          "depreciation_and_amortization": 69,
-          "ebit": 123,
-          "equity": 582,
-          "fully_diluted_shares": 174,
-          "goodwill": 0,
-          "income_taxes": 8,
-          "interest_expense_income": 3,
-          "minority_interest": 0,
-          "sales": 3046,
-          "total_debt": 0,
-          "year": 2017
-        },
         {
           "capex": 74,
           "cash_and_cash_equivalents": 54,
@@ -1582,10 +1577,12 @@
           "year": 2021
         },
         {
+          "cash_and_cash_equivalents": 1000,
+          "ebitda": 667,
           "fully_diluted_shares": 190,
-          "interest_expense_income": 40,
-          "net_debt": 1200,
-          "sales": 6300,
+          "net_debt": 2350,
+          "sales": 6475,
+          "total_debt": 3350,
           "year": 2022
         },
         {
@@ -1604,6 +1601,9 @@
         },
         {
           "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "id": 10,
@@ -1613,15 +1613,16 @@
       "multiple_PER": 15,
       "multiple_P_FCF": 14,
       "name": "Api Group",
-      "notes": "Scenario 1:\n- Growth of 6-7% organic + 4% by acquisitions -> 10%\n- EBITDA margin to 13% by 2025\n- Debt leverage to 2.0-2.5x\n- PER 15-20\n\nScenario 2:\n- Growth of 3%\n- Debt reduced\n- PER 12-14\n",
+      "notes": "Scenario 1:\n- Growth of 6-7% organic + 4% by acquisitions -> 10%\n- EBITDA margin to 13% by 2025\n- Adjusted free cash flow conversion of ~80%\n- Debt leverage to 2.0-2.5x\n- PER 15-20\n\nScenario 2:\n- Growth of 3%\n- Debt reduced\n- PER 12-14\n",
+      "portfolio": 1,
       "price": 18.12,
       "sales_growth": 0.1,
-      "summary": "From press releases: Stock repurchase of 250M$\n\nFrom Q2 earnings presentation\nOrganic growth 13,9%, growth of 75% net revenue\nGross margin 26,6%\nGuidance 2022\n- net revenue 6.4-6.5\n- adjusted EBITDA 650-675\n- net debt in Q2 2022 / adjusted EBITDA is 3.9x, end of 2023 target is 2.5x",
+      "summary": "The acquisition of Chubb represents a high increase in revenue and also an strategic movement towards more recurrent revenue.",
       "tax_rate": 0.2,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "APG",
       "type": "Industrial",
-      "update_date": "17/08/2022"
+      "update_date": "26/11/2022"
     },
     "11": {
       "currency": "EUR",
@@ -1926,24 +1927,9 @@
     },
     "13": {
       "currency": "EUR",
-      "current_year": 2021,
+      "current_year": 2022,
+      "guidance": "Nagarro guidance for 2023\n1020 renevue (not including acquisitions)\n15% EBITDA margin\n\nLong term guidance\n10B revenue, 20% Adjusted EBITDA margin, 30% organic growth",
       "historic_data": [
-        {
-          "capex": 1.5,
-          "cash_and_cash_equivalents": 0,
-          "depreciation_and_amortization": 5,
-          "ebit": 11,
-          "equity": 0,
-          "fully_diluted_shares": 11.4,
-          "goodwill": 0,
-          "income_taxes": 3,
-          "interest_expense_income": 2,
-          "leases_cost": 3,
-          "minority_interest": 0.6,
-          "sales": 152,
-          "total_debt": 0,
-          "year": 2015
-        },
         {
           "capex": 2,
           "cash_and_cash_equivalents": 14.2,
@@ -2042,52 +2028,56 @@
           "year": 2021
         },
         {
-          "ebit": 75,
-          "fully_diluted_shares": 11.4,
-          "interest_expense_income": 4,
-          "net_debt": 90,
-          "sales": 770,
+          "cash_and_cash_equivalents": 90,
+          "ebitda": 148,
+          "equity": 178,
+          "fully_diluted_shares": 13.21,
+          "goodwill": 218,
+          "net_debt": 198,
+          "sales": 856,
+          "total_debt": 288,
           "year": 2022
         },
         {
-          "fully_diluted_shares": 11.4,
+          "ebitda": 150,
           "interest_expense_income": 4,
           "net_debt": 70,
           "year": 2023
         },
         {
-          "fully_diluted_shares": 11.4,
           "interest_expense_income": 4,
           "net_debt": 50,
           "year": 2024
         },
         {
-          "fully_diluted_shares": 11.4,
           "interest_expense_income": 4,
           "net_debt": 30,
           "year": 2025
         },
         {
           "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "id": 13,
       "key": "13",
       "margin_ebit": 0.12,
-      "multiple_EBIT": 22,
       "multiple_EV_EBITDA": 18,
       "multiple_PER": 25,
       "multiple_P_FCF": 25,
       "name": "Nagarro",
-      "notes": "2021 data updated with annual report\n- Non controlling interest to 0 as there have been acquisitions over non controlling parts of the company? Check\nEBIT calculated from Adjusted EBITDA - DA and so is net income.",
-      "price": 128.2,
-      "sales_growth": 0.25,
-      "summary": "Nagarro guidance for 2022\n- Revenue of 770M\n- EBITDA margin to 14%",
+      "notes": "2022\nTotal debt is Non-current liabilities from Q3 report so far\n\nConservative scenario\nPotential recession on 2023\n- Nagarro says target (morosidad) is 1% but looking at a recession scenario of competitors, like EPAM 2011 10-k, from trade receivables, allowance for doubtful accounts:\n  - 2009 (severe recession): Accounts receivable was 27450 and allowance was 3246 so ~12%\n  - 2010 (softer recession): Accounts receivable was 41488 and allowance 1671 so ~4%\n- So, provision for bad debt could be 5% from Trade receivables + contract assets, around 10M, can be added to operating expenses",
+      "portfolio": 1,
+      "price": 108,
+      "sales_growth": 0.2,
+      "summary": "",
       "tax_rate": 0.2,
-      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n  - Potential recession on 2023\n    - Nagarro says target (morosidad) is 1% but looking at a recession scenario of competitors, like EPAM 2011 10-k, from trade receivables, allowance for doubtful accounts:\n      - 2009 (severe recession): Accounts receivable was 27450 and allowance was 3246 so ~12%\n      - 2010 (softer recession): Accounts receivable was 41488 and allowance 1671 so ~4%\n    - So, provision for bad debt could be 5% from Trade receivables + contract assets, around 10M\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "NA9",
       "type": "Technology",
-      "update_date": "5/2/2022"
+      "update_date": "07/03/2023"
     },
     "14": {
       "currency": "GBP",
@@ -2542,7 +2532,7 @@
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "AMZN",
       "type": "Retail",
-      "update_date": "15/09/2022"
+      "update_date": "28/01/2023"
     },
     "17": {
       "currency": "EUR",
@@ -3138,17 +3128,18 @@
       "id": 20,
       "key": "20",
       "margin_ebit": 0.38,
-      "multiple_EBIT": 25,
-      "multiple_EV_EBITDA": 20,
-      "multiple_PER": 30,
-      "multiple_P_FCF": 40,
+      "multiple_EBIT": 16,
+      "multiple_EV_EBITDA": 14,
+      "multiple_PER": 20,
+      "multiple_P_FCF": 20,
       "name": "Facebook",
       "price": 331.41,
-      "sales_growth": 0.25,
+      "sales_growth": 0.1,
       "tax_rate": 0.2,
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "FB",
       "type": "Technology",
-      "update_date": "11/10/2021"
+      "update_date": "28/01/2023"
     },
     "21": {
       "currency": "EUR",
@@ -4497,24 +4488,8 @@
     },
     "30": {
       "currency": "CAD",
-      "current_year": 2021,
+      "current_year": 2022,
       "historic_data": [
-        {
-          "capex": 8,
-          "cash_and_cash_equivalents": 4,
-          "depreciation_and_amortization": 16,
-          "ebit": 11.7,
-          "equity": 207,
-          "fully_diluted_shares": 14,
-          "goodwill": 144,
-          "income_taxes": 23,
-          "interest_expense_income": 5.5,
-          "leases_cost": 0,
-          "minority_interest": 1,
-          "sales": 715,
-          "total_debt": 148,
-          "year": 2015
-        },
         {
           "capex": 10,
           "cash_and_cash_equivalents": 1,
@@ -4612,9 +4587,19 @@
           "year": 2021
         },
         {
+          "capex": 19,
+          "cash_and_cash_equivalents": 3,
+          "depreciation_and_amortization": 74,
+          "equity": 439,
           "fully_diluted_shares": 23,
-          "interest_expense_income": 6,
+          "goodwill": 344,
+          "income_taxes": 13,
+          "interest_expense_income": 11,
+          "leases_cost": 29,
           "net_debt": 160,
+          "net_income": 36,
+          "sales": 2172,
+          "total_debt": 397,
           "year": 2022
         },
         {
@@ -4637,6 +4622,9 @@
         },
         {
           "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "id": 30,
@@ -4647,34 +4635,22 @@
       "multiple_PER": 22,
       "multiple_P_FCF": 22,
       "name": "GDI Integrated facility services",
-      "price": 44.48,
+      "notes": "2022 data taken from annual report\nReview data before 2022, D&A doesnt seem right\nIn the capex additions to intangible assets were not included\nLeases are payments of lease liabilities",
+      "portfolio": 1,
+      "price": 46.92,
       "sales_growth": 0.13,
-      "summary": "2021 data taken from TIRK, wait for annual report filling and fix\n- EBIT calculated based on Net income seen in TIKR\n- Leases couldn't find in TIKR, took value from 2020",
+      "summary": "2021 data taken from TIRK, wait for annual report filling and fix\n- EBIT calculated based on Net income seen in TIKR\n- Leases couldn't find in TIKR, took value from 2020\n\nProvides no clear guidance in its fillings",
       "tax_rate": 0.21,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "GDI.TO",
       "type": "",
-      "update_date": "18/09/2022"
+      "update_date": "06/03/2023"
     },
     "31": {
       "currency": "USD",
-      "current_year": 2021,
+      "current_year": 2022,
+      "guidance": "2023 Q1 Guidance for FY 2023\n\nAdjusted earnings per share range of $7.30 - $7.80, 8% expected mid-point growth versus comparable prior year\nCash flow from operations range of $1.4 - $1.5 billion; free cash flow range of $800 - $900 million expected\nInitiated $0.25 per share quarterly cash dividend, capital allocation milestone\nAnticipate returning at least $600 million of capital to shareholders through share repurchases and dividends\n\nLong term targets\n2.5-3.5x Leverage\nEBITDA growth 4-6%\nGrow annual dividend\nEPS growth 7-12%\nTSR (Total share holder) growth 10-15%",
       "historic_data": [
-        {
-          "capex": 180,
-          "cash_and_cash_equivalents": 228,
-          "depreciation_and_amortization": 350,
-          "ebit": 450,
-          "equity": -65,
-          "fully_diluted_shares": 124,
-          "goodwill": 1652,
-          "income_taxes": 36,
-          "interest_expense_income": 191,
-          "minority_interest": 0,
-          "sales": 4881,
-          "total_debt": 3600,
-          "year": 2015
-        },
         {
           "capex": 288,
           "cash_and_cash_equivalents": 323,
@@ -4685,6 +4661,7 @@
           "goodwill": 2406,
           "income_taxes": 72,
           "interest_expense_income": 291,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 6489,
           "total_debt": 5700,
@@ -4700,6 +4677,7 @@
           "goodwill": 2775,
           "income_taxes": 109,
           "interest_expense_income": 269,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 7095,
           "total_debt": 5600,
@@ -4715,6 +4693,7 @@
           "goodwill": 2944,
           "income_taxes": 60,
           "interest_expense_income": 259,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 7869,
           "total_debt": 5800,
@@ -4730,6 +4709,7 @@
           "goodwill": 5051,
           "income_taxes": 115,
           "interest_expense_income": 329,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 8878,
           "total_debt": 11200,
@@ -4745,13 +4725,16 @@
           "goodwill": 5173,
           "income_taxes": 150,
           "interest_expense_income": 435,
+          "leases_cost": 0,
           "sales": 11709,
           "total_debt": 10200,
           "year": 2020
         },
         {
+          "adjusted_ebitda": 2224,
           "capex": 676,
           "cash_and_cash_equivalents": 1091,
+          "change_in_working_capital": -55,
           "depreciation_and_amortization": 854,
           "ebit": 1400,
           "equity": 3180,
@@ -4759,60 +4742,82 @@
           "goodwill": 5000,
           "income_taxes": 172,
           "interest_expense_income": 336,
+          "leases_cost": 0,
           "minority_interest": 0,
           "net_debt": 8400,
+          "net_income": 732,
+          "non_operating_income": -22,
+          "operating_income": 1292,
           "sales": 13850,
           "total_debt": 10500,
           "year": 2021
         },
         {
-          "fully_diluted_shares": 136,
-          "interest_expense_income": 320,
+          "adjusted_ebitda": 2101,
+          "adjusted_net_income": 983,
+          "capex": 687,
+          "cash_and_cash_equivalents": 1410,
+          "change_in_working_capital": -198,
+          "depreciation_and_amortization": 819,
+          "fully_diluted_shares": 132.8,
+          "income_taxes": 168,
+          "interest_expense_income": 286,
+          "leases_cost": 0,
+          "minority_interest": 0,
           "net_debt": 8300,
+          "net_income": 766,
+          "non_operating_income": -51,
+          "operating_income": 1242,
+          "sales": 14495,
           "year": 2022
         },
         {
-          "fully_diluted_shares": 136,
-          "interest_expense_income": 300,
+          "adjusted_net_income": 1027,
+          "fully_diluted_shares": 126,
           "net_debt": 7900,
           "year": 2023
         },
         {
-          "fully_diluted_shares": 136,
+          "fully_diluted_shares": 126,
           "interest_expense_income": 280,
           "net_debt": 7400,
           "year": 2024
         },
         {
-          "fully_diluted_shares": 136,
+          "fully_diluted_shares": 126,
           "interest_expense_income": 260,
           "net_debt": 7000,
           "year": 2025
         },
         {
-          "fully_diluted_shares": 136,
+          "fully_diluted_shares": 126,
           "interest_expense_income": 250,
           "net_debt": 6600,
           "year": 2026
+        },
+        {
+          "fully_diluted_shares": 126,
+          "year": 2027
         }
       ],
       "id": 31,
       "key": "31",
-      "margin_ebit": 0.11,
-      "multiple_EBIT": 15,
+      "margin_ebit": 0.1,
+      "multiple_EBIT": 12,
       "multiple_EV_EBITDA": 10,
       "multiple_PER": 15,
       "multiple_P_FCF": 15,
       "name": "Berry Global Group",
       "notes": "",
-      "price": 57,
-      "sales_growth": 0.1,
-      "summary": "Goodwill was faked, check from reports\n\nFY 22 Guidance\nAdjusted EPS 7.40 -> PER 7.7\nDiluted shares: 134",
+      "portfolio": 1,
+      "price": 64.3,
+      "sales_growth": 0.05,
+      "summary": "2023 Q1 vs 2022 Q1\nOperating EBITDA 443M, vs 430M, 3% up\nAdjusted earnings per share 1.30 vs 1.17 up 11%",
       "tax_rate": 0.21,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "BERY",
       "type": "",
-      "update_date": "22/08/2022"
+      "update_date": "05/02/2023"
     },
     "32": {
       "currency": "CAD",
@@ -5306,7 +5311,7 @@
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "CLA",
       "type": "Technology",
-      "update_date": "04/09/2022"
+      "update_date": "11/11/2022"
     },
     "35": {
       "currency": "EUR",
@@ -6595,6 +6600,7 @@
           "fully_diluted_shares": 37.52,
           "income_taxes": 0.76,
           "interest_expense_income": 0.07,
+          "leases_cost": 0,
           "minority_interest": 0,
           "sales": 117.39,
           "total_debt": 1.32,
@@ -6676,9 +6682,19 @@
           "year": 2021
         },
         {
-          "income_taxes": 7.4,
-          "net_debt": -2,
+          "capex": 2.1,
+          "cash_and_cash_equivalents": 100.3,
+          "depreciation_and_amortization": 9.6,
+          "ebit": 18,
+          "equity": 1.9,
+          "fully_diluted_shares": 46,
+          "goodwill": 82.3,
+          "income_taxes": 5.7,
+          "interest_expense_income": 6.5,
+          "minority_interest": 0.5,
+          "net_income": -10,
           "sales": 474,
+          "total_debt": 184,
           "year": 2022
         },
         {
@@ -6706,13 +6722,14 @@
       "multiple_P_FCF": 12,
       "name": "Claranova",
       "notes": "- Valuation:\n3 possible scenarios\n1 -> Optimistic: 700M revenue, 10% EBITDA margin, P/FCF 18x, EV/EBITDA 11x\n2 -> Normal: 600M revenue, 8% EBITDA margin, P/FCF 15x, EV/EBITDA 9x\n3 -> Conservative: 500M revenue, 6% EBITDA margin, P/FCF 13x, EV/EBITDA 7x.",
-      "price": 3.14,
+      "portfolio": 1,
+      "price": 2.73,
       "sales_growth": 0.06,
       "summary": "Summary:\n2022 Half 1 seems to have almost no growth, 1% but also because of special market conditions, exiting pandemic measures, Apple iOS 14.5, supply chain pressures, Russia invasion in Ukraine... wait for future news.\nFor the moment let's say is the conservative scenario.\n\nGuidance\nThe lower growth in H1 is expected to delay achievement of the €700m\nrevenue target and on that basis Claranova now expects to reach this\nmilestone at the end of FY 2023-2024\nThe Group is nevertheless maintaining its EBITDA margin target of 10% for\nFY 2022-2023\n\nNOTES:\n-Interests expense from income(2021): Taken from annual report, Note 13, just included borrowing costs not foreing exchange losses or IFRS 16 expenses.\n-Capex(2021): Included acquisition of intangible and property plant and equipment.",
       "tax_rate": 0.25,
       "thesis": "- What is the company's business?\nInternet, mobile, IoT in USA. 3 parts:\nThe PlanetArt segment offers FreePrints Photobooks, tiles, cards for greeting...\nAvanquest provides antivirus, ad blocker, cleaning, signPdf.\nMydevices offers application platform that provides a range of IoT solutions.\n\n- How does the company earn money?\nForecast of revenues 2021 -> planetart 380 Avanquest 88 myDevices 1\n\nAvanquest went from 50 to 78% recurring revenues as subscription, means EBITDA decreases but CFO increases due to deferred revenues.\nNormal revenues for instance buy license -> 100$ 1st year\nRecurring revenues as subscription -> 30 1st year, 60 2nd, 90, 120... So from the 4th year is more money, before that point is not.\n\n- How is growth? Organic, M&A?\nSales growth was bad in the past, nowadays very high and estimated future not so good, why?\nDifferent strategy based on M&A growth that led to financial problems. Management team has renewed and has different strategy.\n20% organic growth, 32% M&A.\n\nAlso has the objective of having 700M revenue and 10% EBITDA by 2023.\n\n- How is the market is operating within? Grows? Which countries operates in?\nOnline Photo Printing Market size worth $ 21,082.23 Million, Globally, by 2028 at 6.47% CAGR\nhttps://www.globenewswire.com/news-release/2021/10/12/2312779/0/en/Online-Photo-Printing-Market-size-worth-21-082-23-Million-Globally-by-2028-at-6-47-CAGR-Verified-Market-Research.html\nRevenue by country:\nUSA 59%\nUK 18%\nFrance 6%\nGermany 4%\nOther european countries 8%\nRest of the world 5%\n\n- Competitive advantage\nScale, company uses local manufacturers for photo printing, as they increase the amount of workload can obtain better prices from them.\nChange cost, customers get so used to the app, which is so good, rating of 4,7 or 4,8 in play store, that keep using this one instead of downloading another one.\nManagement team is very good.\n\n- Risks\nBenefited by covid, how much??\nComplex historic, turnaround from 2013.\nSmall cap, unknown company.\nM&A strategy.\n\n- How does it behave in crisis?\nWe can check CEWE, is an european competitor, operating income didn't decrease during 2008 crisis.\nCIMPRESS is another competitor, had a nice increase during 2008 crisis.\nShutterfly is a competitor of the photographs part, which is like 60% of CLA, had a huge increase in crisis.\nDoes Covid impact? People when covid started, at home started printing a lot of photos, afterwards, as no trips, or events were having place, decreased.\n\n- Comparables (check for ratios)\nODDO report does a good analysis:\nAvanquest part - Market peers -> Avast, KApe technologies\nPlanetArt part - Market peers -> Shutterfly, CEWE\n\n- Insiders & managers\nCEOs salary is around 800k, in France with taxes equals to 400k, but has like 20M in stocks of the company, so it is totally aligned.\n\n- If they are, why the stocks are cheap?\nSmall company, 200M.\nProfit is still very low, thesis is the outlook provided by the company, having 700M revenue and 70M EBITDA by 2023.",
       "ticker": "CLA",
-      "update_date": "15/09/2022"
+      "update_date": "24/01/2023"
     },
     "-MmsiI-nK65fD8JGAlrI": {
       "currency": "EUR",
@@ -6906,13 +6923,14 @@
       "multiple_P_FCF": 25,
       "name": "Kaisa prosperity holding",
       "notes": "2021 Data taken from TIKR\nEBIT calculated from Net income\nExcluded from Net income:\n- Gain (Loss) On Sale of Investments\n- Gain (Loss) On Sale of Assets\n- Other Unusual Items\nSo Net income = 56.81 + 419.33",
+      "portfolio": 1,
       "price": 3.99,
       "sales_growth": 0.28,
       "summary": "Review Ratios",
       "tax_rate": 0.12,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "2168",
-      "update_date": "5/9/2022"
+      "update_date": "07/12/2022"
     },
     "-N9NLYxh7pqcZ0rEZjff": {
       "currency": "EUR",
@@ -6969,55 +6987,116 @@
           "year": 2026
         }
       ],
+      "key": "-N9NLYxh7pqcZ0rEZjff",
       "margin_ebit": 0.3,
-      "multiple_PER": 25,
+      "multiple_EV_EBITDA": 12,
+      "multiple_PER": 14,
       "name": "Harvia (prosp)",
-      "price": 19.96,
-      "sales_growth": 0.25,
+      "price": 14.04,
+      "sales_growth": 0.1,
+      "summary": "Company guidance of 5% growing revenue and 20% EBIT margin\n\nQ1 report:\nRevenue +28.2% to 50.8M\nAdjusted operating profit 12.1M so 23.8% margin\nDebt leverage 0.8\nEPS 0.50\nOperating FCF 7 (8.1)\n\nQ2\nRevenue -1.7% to 46M, at comparable exchange rates -5.4% to 44.3M, organic revenue -9.3%\nOperating profit 19% so 19% margin\nDebt leverage 0.9\nEPS 0.40\nOperating FCF 2.1M (4.0)\n\nQ3\nRevenue -18.9% to 37.4, at comparable exchange rates -23.3% to 35.4, organic -19.6%\nOperating profit 7.3 so 19.5% margin, adjusted and at comparable rates 7.1 so 20% (from 35.4)\nEPS 0.34\nOperating FCF 9.8M (4.0)\nDebt leverage 1.3",
       "tax_rate": 0.2,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "HARVIA",
-      "update_date": "13/08/2022"
+      "update_date": "07/11/2022"
     },
     "-N9bhgYj-8e9olRSKwuV": {
       "currency": "CAD",
-      "current_year": 2021,
+      "current_year": 2022,
+      "dividends": 0.03,
+      "guidance": "From Q3 report\nGross consumer loans receivable 2022 (Billions) -> 2.6-2.8, 2023 -> 3.2-3.4, 2024 -> 3.8-4.0\nRevenue (Billions) 2022 -> 1.00-1.04, 2023 -> 1.14-1.20, 2024 -> 1.30-1.38\nCompany operating margin 2022 -> 35%, 2023 -> 36%, 2024 -> 37%\nROE remain to 22% on 2022, 2023 and 2024\n\nFrom 2022 Q4 report\nQuarterly Loan Growth of $206 million, up 54% from $134 million\nNet Charge Off Rate of 9.0%, down from 9.6%\nLoan Portfolio of $2.79 billion, up 38% from $2.03 billion\nAdjusted Annual Diluted EPS of $11.55, up 11% from $10.43\n\nForecast from Q4 report 2023 | 2024 | 2025\nGross consumer loans receivable $3.4B - $3.6B | $4.1B - $4.3B | $4.7B - $5.0B\nTotal Company revenue $1.15B - $1.25B | $1.38B - $1.48B | $1.56B - $1.70B\nTotal yield on consumer loans (including ancillary products) 34.5% - 36.5% | 33.5% - 35.5% | 33.0% - 35.0%\nNet charge offs as a percentage of average gross consumer loans receivable 8.5% - 10.5% | 8.0% - 10.0% | 8.0% - 10.0%\nTotal Company operating margin 36%+ 37%+ 38%+\nReturn on equity 22%+ 22%+ 22%+",
       "historic_data": [
-        {
-          "year": 2015
-        },
         {
           "year": 2016
         },
         {
+          "cash_and_cash_equivalents": 109,
+          "net_income": 42,
+          "operating_income": 87,
+          "sales": 401,
           "year": 2017
         },
         {
+          "capex": 11,
+          "cash_and_cash_equivalents": 100,
+          "depreciation_and_amortization": 52,
+          "equity": 301,
+          "fully_diluted_shares": 15.67,
+          "goodwill": 21,
+          "income_taxes": 20,
+          "interest_expense_income": 47,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 53,
+          "operating_income": 119,
+          "sales": 506,
+          "total_debt": 691,
           "year": 2018
         },
         {
+          "capex": 8,
+          "cash_and_cash_equivalents": 46,
+          "depreciation_and_amortization": 64,
+          "equity": 332,
+          "fully_diluted_shares": 16.06,
+          "goodwill": 21,
+          "income_taxes": 25,
+          "interest_expense_income": 58,
+          "net_income": 80,
+          "operating_income": 168,
+          "sales": 609,
+          "total_debt": 923,
           "year": 2019
         },
         {
+          "capex": 14,
+          "cash_and_cash_equivalents": 93,
+          "depreciation_and_amortization": 64,
+          "equity": 443,
+          "fully_diluted_shares": 15.76,
+          "goodwill": 21,
+          "income_taxes": 46,
+          "interest_expense_income": 55,
+          "net_income": 117,
+          "operating_income": 216,
+          "sales": 652,
+          "total_debt": 978,
           "year": 2020
         },
         {
-          "capex": 7.82,
-          "cash_and_cash_equivalents": 102.48,
-          "depreciation_and_amortization": 62.06,
-          "ebit": 403.5,
+          "capex": 8,
+          "cash_and_cash_equivalents": 102,
+          "depreciation_and_amortization": 78,
           "equity": 789.91,
           "fully_diluted_shares": 16.76,
           "goodwill": 180.92,
           "income_taxes": 71.91,
-          "interest_expense_income": 77.89,
+          "interest_expense_income": 78,
           "leases_cost": 0,
           "minority_interest": 0,
+          "net_income": 174,
+          "non_operating_income": 110,
+          "operating_income": 281,
           "sales": 826.72,
-          "total_debt": 1552.68,
+          "total_debt": 1652,
           "year": 2021
         },
         {
+          "capex": 9.87,
+          "cash_and_cash_equivalents": 62,
+          "depreciation_and_amortization": 81,
+          "ebitda": 351,
+          "equity": 870,
+          "fully_diluted_shares": 16.75,
+          "goodwill": 180,
+          "income_taxes": 55.61,
+          "interest_expense_income": 101,
+          "minority_interest": 0,
+          "net_income": 192,
+          "non_operating_income": -30,
+          "operating_income": 341,
+          "sales": 1019,
+          "total_debt": 2200,
           "year": 2022
         },
         {
@@ -7031,21 +7110,25 @@
         },
         {
           "year": 2026
+        },
+        {
+          "year": 2027
         }
       ],
       "key": "-N9bhgYj-8e9olRSKwuV",
       "margin_ebit": 0.3,
       "multiple_PER": 15,
-      "multiple_P_Book": 2,
+      "multiple_P_Book": 2.5,
       "name": "GoEasy",
-      "notes": "Seems to be on fair price of 2021 data, net income is higher this year because of investments but adjusted net income (without investments) would be 139 and PER would be 17.\nBut taking into account growth happening in 2022 of around 30% revenue, still has big upside.",
-      "price": 123.36,
-      "sales_growth": 0.25,
-      "summary": "2021 Data retrieved from TIKR\nSales = Interest and dividend income + commission and fees + other revenues\nEBIT = Operating expense + interest expense + sales on investments\nSale on investments in 2021 is very high, 114,88 other years is not that high\nTotal debt retrieved from Long term debt\n\n2022 until 30th June\nRevenue +30%\nEBIT & Net income decreased because of investments, but Q2 2022 vs Q1 increase of net income is 100%",
+      "notes": "Data picked mainly from TIKR but adjusted net income which was picked from 2021 annual report\nData from 2022 from Q4/FY report\nNet income is adjusted net income\nTotal debt picked from TIKR even 2022\nCapex from 2022 from TIKR",
+      "portfolio": 1,
+      "price": 130.74,
+      "sales_growth": 0.18,
+      "summary": "Historically listed at 12-13x PER and 2.5x P/Book value.\nCheck comparables.",
       "tax_rate": 0.25,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "GSY",
-      "update_date": "27/08/2022"
+      "update_date": "18/02/2023"
     },
     "-NA5sd1M2WyzionVS7-q": {
       "currency": "USD",
@@ -7076,6 +7159,8 @@
           "goodwill": 511,
           "income_taxes": -13.33,
           "interest_expense_income": 27.03,
+          "leases_cost": 0,
+          "minority_interest": 0,
           "net_debt": 1481.07,
           "sales": 6454.4,
           "total_debt": 1737.75,
@@ -7123,7 +7208,1097 @@
       "tax_rate": 0.24,
       "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
       "ticker": "DOLE",
-      "update_date": "03/09/2022"
+      "update_date": "28/01/2023"
+    },
+    "-NDdmqYS55o4cx9UnseF": {
+      "currency": "USD",
+      "current_year": 2022,
+      "guidance": "As of FY2022\nAdjusted EBITDA\n- Changes in business combination-related provisions\n- Acquisition, integration and other\n- Share-based compensation\n- Foreign exchange gain\nAdjusted net income excludes, besides what is excluded from Adjusted EBITDA, also:\n- Amortization of intangible assets\n- Tax effect from the adjustments made",
+      "historic_data": [
+        {
+          "year": 2016
+        },
+        {
+          "year": 2017
+        },
+        {
+          "year": 2018
+        },
+        {
+          "capex": 63,
+          "change_in_working_capital": -28,
+          "depreciation_and_amortization": 92,
+          "fully_diluted_shares": 190,
+          "income_taxes": 26,
+          "interest_expense_income": 36,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 69,
+          "non_operating_income": -19,
+          "operating_income": 114,
+          "sales": 1020,
+          "year": 2019
+        },
+        {
+          "capex": 74,
+          "cash_and_cash_equivalents": 153,
+          "change_in_working_capital": 1,
+          "depreciation_and_amortization": 182,
+          "ebitda": 391,
+          "equity": 1111,
+          "fully_diluted_shares": 226,
+          "goodwill": 1428,
+          "income_taxes": 48,
+          "interest_expense_income": 46,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 160,
+          "non_operating_income": 30,
+          "operating_income": 121,
+          "sales": 1582,
+          "total_debt": 1674,
+          "year": 2020
+        },
+        {
+          "capex": 101,
+          "cash_and_cash_equivalents": 115,
+          "change_in_working_capital": -69,
+          "depreciation_and_amortization": 257,
+          "ebitda": 540,
+          "equity": 1655,
+          "fully_diluted_shares": 267,
+          "goodwill": 1380,
+          "income_taxes": 64,
+          "interest_expense_income": 44,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 267,
+          "non_operating_income": -43,
+          "operating_income": 185,
+          "sales": 2194,
+          "total_debt": 820,
+          "year": 2021
+        },
+        {
+          "adjusted_ebitda": 600,
+          "adjusted_net_income": 320,
+          "capex": 104,
+          "cash_and_cash_equivalents": 125,
+          "change_in_working_capital": -60,
+          "depreciation_and_amortization": 258,
+          "ebitda": 607,
+          "equity": 1838,
+          "goodwill": 1350,
+          "income_taxes": 67,
+          "interest_expense_income": 41,
+          "net_income": 332,
+          "operating_income": 280,
+          "sales": 2468,
+          "total_debt": 964,
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
+        }
+      ],
+      "key": "-NDdmqYS55o4cx9UnseF",
+      "margin_ebitda": 0.22,
+      "multiple_EV_EBITDA": 17,
+      "multiple_PER": 25,
+      "multiple_P_FCF": 25,
+      "name": "Telus international",
+      "notes": "Scenarios???\n\nEV/EBITDA 25-30x Mar 2021- Feb 2022, 17-21x since.\n~25x P/FCF\nPER seems very high\n",
+      "portfolio": 1,
+      "price": 21,
+      "sales_growth": 0.2,
+      "summary": "Willowtree acquisition\n1.22B + 219M assumed debt\n140M revenue -> 9x sales??",
+      "tax_rate": 0.3,
+      "thesis": "Based in Canada, provide software solutions for other companies. UX/UI design, Cloud solutions, content moderation, computer vision, machine learning.\nHas presence in north America, Europe and East Asia.\nAbout 70000 employees.\n\n- How does the company earn money? - Pending analysis\nTechnology & games 46%\nCommunication & Media 23%\neCommerce & Fintech 12%\nBanking, Financial Services & Insurance 8%\nCustomers in North America make 88% of revenue.\n\nAbout 17% of the growth is organic.\n\nOperating in Software consulting market which grows at 10.9% per year according to https://www.grandviewresearch.com/industry-analysis/software-consulting-market.\n\nPotential market of 225B.\n\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "TIXT",
+      "update_date": "13/02/2023"
+    },
+    "-NG7bNy29IeAIUFEfLOT": {
+      "currency": "USD",
+      "current_year": 2022,
+      "guidance": "Q2 guidance FY'22\nTPV grow ~12%, ~16% FXN\nNet revenues $27.85 billion, ~10%, ~11% FXN excluding eBay ~13.5%, ~14.5% FXN\nGAAP EPS ~$1.52-$1.62 ($3.52 in FY’21), non-GAAP EPS ~$3.87-$3.97 ($4.60 in FY’21).\n\nQ3 guidance FY'22\nTPV grow ~8.5%, ~12.5% FXN\nNet revenues ~$27.5 billion, ~8.5%, ~10% FXN, excluding eBay ~12%, ~13% FXN\nGAAP EPS ~$2.11-$2.13 ($3.52 in FY’21), non-GAAP EPS ~$4.07-$4.09 ($4.60 in FY’21).",
+      "historic_data": [
+        {
+          "year": 2016
+        },
+        {
+          "year": 2017
+        },
+        {
+          "capex": 823,
+          "cash_and_cash_equivalents": 9109,
+          "depreciation_and_amortization": 365,
+          "equity": 15386,
+          "fully_diluted_shares": 1203,
+          "goodwill": 6284,
+          "income_taxes": 319,
+          "interest_expense_income": 77,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 2057,
+          "sales": 15451,
+          "total_debt": 1998,
+          "year": 2018
+        },
+        {
+          "capex": 704,
+          "cash_and_cash_equivalents": 10761,
+          "depreciation_and_amortization": 403,
+          "equity": 16929,
+          "fully_diluted_shares": 1188,
+          "goodwill": 6212,
+          "income_taxes": 539,
+          "interest_expense_income": 115,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 2459,
+          "sales": 17772,
+          "total_debt": 5472,
+          "year": 2019
+        },
+        {
+          "capex": 866,
+          "cash_and_cash_equivalents": 13083,
+          "depreciation_and_amortization": 416,
+          "equity": 20063,
+          "fully_diluted_shares": 1187,
+          "goodwill": 9135,
+          "income_taxes": 863,
+          "interest_expense_income": 209,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 4202,
+          "sales": 21454,
+          "total_debt": 9725,
+          "year": 2020
+        },
+        {
+          "capex": 908,
+          "cash_and_cash_equivalents": 9500,
+          "depreciation_and_amortization": 456,
+          "equity": 21727,
+          "fully_diluted_shares": 1186,
+          "goodwill": 11454,
+          "income_taxes": -70,
+          "interest_expense_income": 232,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "net_income": 4169,
+          "sales": 25371,
+          "total_debt": 9810,
+          "year": 2021
+        },
+        {
+          "net_income": 2500,
+          "sales": 27500,
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
+        }
+      ],
+      "key": "-NG7bNy29IeAIUFEfLOT",
+      "margin_ebit": 0.18,
+      "multiple_EV_EBITDA": 25,
+      "multiple_PER": 30,
+      "name": "Paypal",
+      "price": 75.18,
+      "sales_growth": 0.13,
+      "summary": "",
+      "tax_rate": 0.15,
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "PYPL",
+      "update_date": "28/01/2023"
+    },
+    "-NIS2uqyT3N3b39st0xR": {
+      "currency": "EUR",
+      "current_year": 2021,
+      "historic_data": [
+        {
+          "year": 2015
+        },
+        {
+          "year": 2016
+        },
+        {
+          "capex": 0.03,
+          "cash_and_cash_equivalents": 0.54,
+          "change_in_working_capital": 0.26,
+          "depreciation_and_amortization": 0.01,
+          "equity": 0.41,
+          "fully_diluted_shares": 3.51,
+          "goodwill": 0,
+          "income_taxes": 0.17,
+          "interest_expense_income": 0.01,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 0,
+          "net_income": 0.34,
+          "non_operating_income": 0.01,
+          "operating_income": 0.51,
+          "sales": 10,
+          "total_debt": 0,
+          "year": 2017
+        },
+        {
+          "capex": 0.34,
+          "cash_and_cash_equivalents": 0.59,
+          "change_in_working_capital": -3.13,
+          "depreciation_and_amortization": 0.05,
+          "equity": 5.35,
+          "goodwill": 0,
+          "income_taxes": 0.55,
+          "interest_expense_income": 0,
+          "long_term_debt": 0,
+          "minority_interest": 0,
+          "net_income": 1.8,
+          "non_operating_income": 0,
+          "operating_income": 2.34,
+          "sales": 21.5,
+          "total_debt": 0,
+          "year": 2018
+        },
+        {
+          "capex": 0.29,
+          "cash_and_cash_equivalents": 1.03,
+          "change_in_working_capital": -12.89,
+          "depreciation_and_amortization": 0.11,
+          "equity": 10.1,
+          "goodwill": 0,
+          "income_taxes": 1.9,
+          "interest_expense_income": 0,
+          "long_term_debt": 5.19,
+          "minority_interest": 0,
+          "net_income": 4.75,
+          "non_operating_income": -0.14,
+          "operating_income": 6.79,
+          "sales": 45,
+          "total_debt": 5.19,
+          "year": 2019
+        },
+        {
+          "capex": 0.41,
+          "cash_and_cash_equivalents": 2.64,
+          "change_in_working_capital": -14.8,
+          "depreciation_and_amortization": 0.15,
+          "equity": 16.13,
+          "goodwill": 0,
+          "income_taxes": 2.33,
+          "interest_expense_income": 0.29,
+          "long_term_debt": 12.18,
+          "minority_interest": 0,
+          "net_income": 5.95,
+          "non_operating_income": 0,
+          "operating_income": 8.58,
+          "sales": 62.7,
+          "total_debt": 12.18,
+          "year": 2020
+        },
+        {
+          "cash_and_cash_equivalents": 2.47,
+          "depreciation_and_amortization": 0.31,
+          "equity": 35.04,
+          "goodwill": 0,
+          "income_taxes": 4.2,
+          "interest_expense_income": 0.46,
+          "long_term_debt": 14.23,
+          "minority_interest": 0.04,
+          "net_income": 8.85,
+          "non_operating_income": 0.01,
+          "operating_income": 13.89,
+          "sales": 85.5,
+          "total_debt": 14.23,
+          "year": 2021
+        },
+        {
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        }
+      ],
+      "key": "-NIS2uqyT3N3b39st0xR",
+      "margin_ebit": 0.15,
+      "margin_ebitda": 0.18,
+      "multiple_EV_EBITDA": 8,
+      "multiple_PER": 12,
+      "name": "Portobello",
+      "portfolio": 1,
+      "price": 32.9,
+      "sales_growth": 0.3,
+      "tax_rate": 0.3,
+      "thesis": "- What is the company's business?\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n  - Italy advertising market expected to grow at 9,2% CAGR.\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "POR",
+      "update_date": "18/01/2023"
+    },
+    "-NIlM-6RjFAWBZ6mZEmL": {
+      "currency": "PLN",
+      "current_year": 2021,
+      "historic_data": [
+        {
+          "year": 2015
+        },
+        {
+          "capex": 0.4,
+          "cash_and_cash_equivalents": 35.17,
+          "depreciation_and_amortization": 0.1,
+          "ebit": 6,
+          "equity": 50,
+          "fully_diluted_shares": 6.09,
+          "goodwill": 1.56,
+          "income_taxes": 0.81,
+          "interest_expense_income": 0.01,
+          "leases_cost": 0,
+          "long_term_debt": 1.4,
+          "minority_interest": -0.24,
+          "net_income": 5.65,
+          "non_operating_income": -0.01,
+          "operating_income": 6,
+          "sales": 12.5,
+          "total_debt": 1.4,
+          "year": 2016
+        },
+        {
+          "capex": 0.16,
+          "cash_and_cash_equivalents": 47.2,
+          "depreciation_and_amortization": 0.22,
+          "ebit": 21.7,
+          "equity": 70,
+          "fully_diluted_shares": 6.6,
+          "goodwill": 2.18,
+          "income_taxes": 3.81,
+          "interest_expense_income": 0.05,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 1.01,
+          "net_income": 15.77,
+          "non_operating_income": 0.2,
+          "operating_income": 21.5,
+          "sales": 40,
+          "total_debt": 2.3,
+          "year": 2017
+        },
+        {
+          "capex": 0.4,
+          "cash_and_cash_equivalents": 69.63,
+          "depreciation_and_amortization": 0.17,
+          "ebit": 50,
+          "equity": 113.67,
+          "goodwill": 1.88,
+          "income_taxes": 12.17,
+          "interest_expense_income": 0.04,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 7.71,
+          "net_income": 47.02,
+          "non_operating_income": 0.72,
+          "operating_income": 50,
+          "sales": 72,
+          "total_debt": 0.31,
+          "year": 2018
+        },
+        {
+          "capex": 1.44,
+          "cash_and_cash_equivalents": 106.45,
+          "depreciation_and_amortization": 0.53,
+          "ebit": 83,
+          "equity": 200,
+          "goodwill": 1.83,
+          "income_taxes": 11.82,
+          "interest_expense_income": 0.11,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 10.37,
+          "net_income": 86.9,
+          "non_operating_income": 1.16,
+          "operating_income": 82,
+          "sales": 116,
+          "total_debt": 0,
+          "year": 2019
+        },
+        {
+          "capex": 0.85,
+          "cash_and_cash_equivalents": 180.87,
+          "depreciation_and_amortization": 0.72,
+          "ebit": 118,
+          "equity": 415,
+          "goodwill": 2.58,
+          "income_taxes": 39.14,
+          "interest_expense_income": 0.07,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 30,
+          "net_income": 200,
+          "non_operating_income": -0.07,
+          "operating_income": 118,
+          "sales": 164,
+          "total_debt": 0,
+          "year": 2020
+        },
+        {
+          "capex": 1.14,
+          "cash_and_cash_equivalents": 260.39,
+          "depreciation_and_amortization": 0.68,
+          "ebit": 153,
+          "equity": 519,
+          "goodwill": 2.69,
+          "income_taxes": 12.05,
+          "interest_expense_income": 0.2,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 21.71,
+          "net_income": 127.15,
+          "non_operating_income": 0,
+          "operating_income": 153,
+          "sales": 234,
+          "total_debt": 1.49,
+          "year": 2021
+        },
+        {
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        }
+      ],
+      "key": "-NIlM-6RjFAWBZ6mZEmL",
+      "margin_ebit": 0.6,
+      "margin_ebitda": 0.6,
+      "multiple_EV_EBITDA": 20,
+      "multiple_PER": 25,
+      "multiple_P_FCF": 25,
+      "name": "Playway",
+      "portfolio": 1,
+      "price": 349,
+      "sales_growth": 0.3,
+      "tax_rate": 0.16,
+      "thesis": "- What is the company's business?\n  - PlayWay S.A. produces and publishes PC and mobile video games in Poland, Western Europe, North America, Germany, and internationally. It sells its products through STEAM, AppStore, GooglePlay, PS Store and xBox store platforms. The company was founded in 2011 and is headquartered in Warsaw, Poland.\n- How does the company earn money?\n  - Selling video games in distributors like Steam (55%), Xbox (19%), Playstation (24%).\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n  - Video game market is expected to grow at a ~10% per year\n  - Most of the sales are in USA and Europe\n- Competitive advantage\n- Risks\n  - Financial risks is low as financial position is very strong.\n  - Not achieving market success which is mitigated by diversification.\n  - Dependency on key distributors like Valve (Steam), Apple, Google, Nintendo, Sony, Microsoft...\n- Insiders & managers\n  - Managers bonuses are insignificant compared to number of shares held by CEO Christopher Kostowski.\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "PLW",
+      "update_date": "19/12/2022"
+    },
+    "-NKbrXxenr0sqt2WRnDv": {
+      "currency": "USD(listed in GBP)",
+      "current_year": 2021,
+      "historic_data": [
+        {
+          "year": 2015
+        },
+        {
+          "capex": 0.35,
+          "cash_and_cash_equivalents": 1.06,
+          "depreciation_and_amortization": 0.38,
+          "ebit": 0.93,
+          "equity": 5.24,
+          "fully_diluted_shares": 10.83,
+          "goodwill": 1.47,
+          "income_taxes": 0.29,
+          "interest_expense_income": 0.16,
+          "leases_cost": 0,
+          "long_term_debt": 1.33,
+          "minority_interest": 0.01,
+          "sales": 12.18,
+          "total_debt": 1.82,
+          "year": 2016
+        },
+        {
+          "capex": 0.44,
+          "cash_and_cash_equivalents": 0.77,
+          "depreciation_and_amortization": 0.46,
+          "ebit": 1.27,
+          "equity": 5.97,
+          "fully_diluted_shares": 12.12,
+          "goodwill": 1.47,
+          "income_taxes": 0.29,
+          "interest_expense_income": 0.13,
+          "long_term_debt": 1.64,
+          "minority_interest": 0.05,
+          "sales": 17.62,
+          "total_debt": 2.03,
+          "year": 2017
+        },
+        {
+          "capex": 0.79,
+          "cash_and_cash_equivalents": 5.02,
+          "depreciation_and_amortization": 0.65,
+          "ebit": 1.96,
+          "equity": 13.08,
+          "fully_diluted_shares": 14.3,
+          "goodwill": 6.25,
+          "income_taxes": 0.47,
+          "interest_expense_income": 0.21,
+          "long_term_debt": 1.45,
+          "minority_interest": 0.01,
+          "sales": 25.47,
+          "total_debt": 2.44,
+          "year": 2018
+        },
+        {
+          "capex": 3.1,
+          "cash_and_cash_equivalents": 5.28,
+          "depreciation_and_amortization": 1.56,
+          "ebit": 2.7,
+          "equity": 17.62,
+          "fully_diluted_shares": 15.24,
+          "goodwill": 9.09,
+          "income_taxes": 0.66,
+          "interest_expense_income": 0.34,
+          "long_term_debt": 1.21,
+          "minority_interest": 0,
+          "sales": 32.36,
+          "total_debt": 4.07,
+          "year": 2019
+        },
+        {
+          "capex": 0.72,
+          "cash_and_cash_equivalents": 6.82,
+          "depreciation_and_amortization": 2.05,
+          "ebit": 4.56,
+          "equity": 23.37,
+          "fully_diluted_shares": 15.43,
+          "goodwill": 22.16,
+          "income_taxes": 1.27,
+          "interest_expense_income": 0.36,
+          "long_term_debt": 5.85,
+          "minority_interest": -0.04,
+          "sales": 37.93,
+          "total_debt": 10.55,
+          "year": 2020
+        },
+        {
+          "capex": 2.7,
+          "cash_and_cash_equivalents": 23.8,
+          "depreciation_and_amortization": 2.96,
+          "ebit": 6.6,
+          "equity": 52.38,
+          "fully_diluted_shares": 17.29,
+          "goodwill": 37.27,
+          "income_taxes": 1.64,
+          "interest_expense_income": 0.92,
+          "long_term_debt": 6.13,
+          "minority_interest": -0.15,
+          "sales": 54.54,
+          "total_debt": 11.5,
+          "year": 2021
+        },
+        {
+          "capex": 0.78,
+          "cash_and_cash_equivalents": 21.91,
+          "depreciation_and_amortization": 3.73,
+          "ebit": 6.67,
+          "equity": 54.06,
+          "fully_diluted_shares": 18.22,
+          "goodwill": 45.38,
+          "income_taxes": 1.56,
+          "interest_expense_income": 1.33,
+          "long_term_debt": 15.37,
+          "minority_interest": -0.05,
+          "sales": 65.43,
+          "total_debt": 20.73,
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        }
+      ],
+      "key": "-NKbrXxenr0sqt2WRnDv",
+      "margin_ebit": 0.12,
+      "margin_ebitda": 0.17,
+      "multiple_EV_EBITDA": 20,
+      "multiple_PER": 40,
+      "name": "Water Intelligence",
+      "notes": "Data was picked from TIKR, Interest expense = expense - income.\nIn 2021 there was 1.87M of unusual items which is not included in the earnings.\nCapex took from annual report, PPE + purchase of intangible.",
+      "price": 6.94,
+      "sales_growth": 0.25,
+      "summary": "Historically (last 5 years) has been listed at average 50 PER, 25 EV/EBITDA, but given upcoming recession\n\nKPIs 2021:\n- #1 ALD royalties grew 2% to 6.8M, network gross sales of 99M\n- #2 Franchise related activities #3 US Corporate sales #4 International corporate sales -> grew 53% to 47.7M\n- So all 4 KPIs combined grew 14% approximately to 147M.",
+      "tax_rate": 0.29,
+      "thesis": "- What is the company's business?\nALD (American Leak Detection) pinpoint and repair water leaks without destruction\nWII (Water Intelligence International) focuses on municipal solutions given the world-wide problem of failing\nwater infrastructure\n- How does the company earn money?\nRoyalties from franchises + corporate services.\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\nWater infrastructure expenditure in USA increases by 5%.\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\nDeSouza salary -> 640k (2021) and 4.8M shares, so around 48M.\n- How does it behave in crisis periods?\n- Competitors & Comparables\n- Why are the stocks cheap?",
+      "ticker": "WATR",
+      "update_date": "13/02/2023"
+    },
+    "-NKt9CL9IBGI6pWiUb4m": {
+      "currency": "USD(listed in CAD)",
+      "current_year": 2022,
+      "guidance": "Outlook for FY2023, from Q2 2023:\nRevenue guidance lowered from 275-285M to 250-260M\nAdjusted EBITDA guidance lowered from 48-52M to 46-49M\n\nResults from Q2 2023:\nRevenue 62M, +17% YoY, -3% over Q1 2023.\nGross profit 42.8M, +12% YoY, -1% over Q1 2023.\nOperating expense 44.26M, +13% YoY, 0% over Q1 2023.\nAdjusted EBITDA 10.55M, +1% YoY, -2% over Q1 2023.\nExplanation for results given is that customers became more sensitive to capex purchases given to headwinds affecting all companies.",
+      "historic_data": [
+        {
+          "year": 2016
+        },
+        {
+          "capex": 0.06,
+          "cash_and_cash_equivalents": 6.76,
+          "depreciation_and_amortization": 0.53,
+          "ebit": 1.44,
+          "equity": 19.34,
+          "fully_diluted_shares": 4.94,
+          "goodwill": 1.64,
+          "income_taxes": 0.39,
+          "interest_expense_income": 0.1,
+          "leases_cost": 0,
+          "long_term_debt": 0,
+          "minority_interest": 0,
+          "sales": 26.88,
+          "total_debt": 3.88,
+          "year": 2017
+        },
+        {
+          "capex": 0.15,
+          "cash_and_cash_equivalents": 15.78,
+          "depreciation_and_amortization": 1.29,
+          "ebit": 4.39,
+          "equity": 35.34,
+          "fully_diluted_shares": 5.82,
+          "goodwill": 5.17,
+          "income_taxes": 1.49,
+          "interest_expense_income": 0.25,
+          "long_term_debt": 3.47,
+          "sales": 57.36,
+          "total_debt": 4.55,
+          "year": 2018
+        },
+        {
+          "capex": 0.29,
+          "cash_and_cash_equivalents": 11.72,
+          "depreciation_and_amortization": 3.55,
+          "ebit": 7.32,
+          "equity": 41.83,
+          "fully_diluted_shares": 7.72,
+          "goodwill": 21.41,
+          "income_taxes": 1.34,
+          "interest_expense_income": 1.38,
+          "long_term_debt": 18.81,
+          "sales": 83,
+          "total_debt": 22.73,
+          "year": 2019
+        },
+        {
+          "capex": 0.63,
+          "cash_and_cash_equivalents": 27.25,
+          "depreciation_and_amortization": 9.61,
+          "ebit": 10.19,
+          "equity": 74.78,
+          "fully_diluted_shares": 10.37,
+          "goodwill": 44.01,
+          "income_taxes": 1.17,
+          "interest_expense_income": 2.53,
+          "long_term_debt": 33.59,
+          "sales": 96,
+          "total_debt": 67.91,
+          "year": 2020
+        },
+        {
+          "capex": 1.13,
+          "cash_and_cash_equivalents": 22.1,
+          "depreciation_and_amortization": 10.69,
+          "ebit": 5.67,
+          "equity": 376.15,
+          "fully_diluted_shares": 29.18,
+          "goodwill": 267.4,
+          "income_taxes": 4.1,
+          "interest_expense_income": 1.95,
+          "long_term_debt": 60.41,
+          "sales": 131.38,
+          "total_debt": 89.54,
+          "year": 2021
+        },
+        {
+          "capex": 1.87,
+          "cash_and_cash_equivalents": 12.7,
+          "depreciation_and_amortization": 39.35,
+          "ebit": -5.53,
+          "equity": 293.81,
+          "fully_diluted_shares": 31.48,
+          "goodwill": 210.01,
+          "income_taxes": 6.39,
+          "interest_expense_income": 3.88,
+          "long_term_debt": 86.93,
+          "sales": 224.35,
+          "total_debt": 122.61,
+          "year": 2022
+        },
+        {
+          "capex": 2.38,
+          "ebitda": 47.5,
+          "fully_diluted_shares": 32.95,
+          "long_term_debt": 82.5,
+          "sales": 255,
+          "total_debt": 117.22,
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
+        }
+      ],
+      "key": "-NKt9CL9IBGI6pWiUb4m",
+      "margin_ebit": 0.05,
+      "margin_ebitda": 0.2,
+      "multiple_EV_EBITDA": 12,
+      "multiple_PER": 15,
+      "multiple_P_FCF": 15,
+      "name": "Sangoma",
+      "notes": "Accounting in USD although is listed in CAD.\nFiscal year ends 30/6.\nExpends a lot of money in growth, should it be taken as capex??\n\nIn 2022 there is a goodwill impairment of 91M, not impacting net income.\nFor the D&A included all D&A for right-of-use assets and development costs.",
+      "portfolio": 1,
+      "price": 3.59,
+      "sales_growth": 0.3,
+      "tax_rate": 0.25,
+      "thesis": "- What is the company's business?\nIs a communication-SaaS company (offers also on premise for pre-cloud customers) offering a very broad of services, meetings, contact center, remote desktop so you can have all communication needs within your company covered with Sangoma.\nMost customers are midsize multi location business.\n- How does the company earn money?\n- How is growth? Organic, M&A?\nRecurring revenue has gone from 25% in 2018 to 70% in 2022\n- How is the market is operating within? Grows? Which countries operates in?\nOperates in North and South America, western and central Europe, India and South East Asia and Australia.\nCloud communication platform market is expected to grow at a CAGR ~20-25% !!!\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\nCheck 8x8 Inc\n- Why are the stocks cheap?",
+      "ticker": "STC",
+      "update_date": "12/02/2023"
+    },
+    "-NLzXC0osxFM2w3vQvK6": {
+      "currency": "CAD",
+      "current_year": 2022,
+      "dividends": 0.01,
+      "historic_data": [
+        {
+          "capex": 11.13,
+          "cash_and_cash_equivalents": 0.15,
+          "depreciation_and_amortization": 10.44,
+          "ebit": 1.51,
+          "equity": 36.24,
+          "fully_diluted_shares": 36.87,
+          "goodwill": 4.52,
+          "income_taxes": 0.07,
+          "interest_expense_income": 1.88,
+          "leases_cost": 0,
+          "long_term_debt": 19.18,
+          "minority_interest": 0,
+          "net_income": -0.06,
+          "sales": 110,
+          "total_debt": 62,
+          "year": 2016
+        },
+        {
+          "capex": 1.4,
+          "cash_and_cash_equivalents": 0.48,
+          "depreciation_and_amortization": 11.5,
+          "ebit": 1.11,
+          "equity": 32.64,
+          "fully_diluted_shares": 37.28,
+          "goodwill": 1.97,
+          "income_taxes": 0.18,
+          "interest_expense_income": 1.89,
+          "long_term_debt": 16.88,
+          "net_income": -3.09,
+          "sales": 122,
+          "total_debt": 64,
+          "year": 2017
+        },
+        {
+          "capex": 5,
+          "cash_and_cash_equivalents": 0.24,
+          "depreciation_and_amortization": 13.3,
+          "ebit": 10.72,
+          "equity": 39.01,
+          "fully_diluted_shares": 36.48,
+          "goodwill": 1.97,
+          "income_taxes": 2.34,
+          "interest_expense_income": 3.77,
+          "long_term_debt": 16.53,
+          "net_income": 5.66,
+          "sales": 171,
+          "total_debt": 87,
+          "year": 2018
+        },
+        {
+          "capex": 1.14,
+          "cash_and_cash_equivalents": 0.44,
+          "depreciation_and_amortization": 13.5,
+          "ebit": 4.93,
+          "equity": 40.6,
+          "fully_diluted_shares": 36.69,
+          "goodwill": 1.97,
+          "income_taxes": 0.87,
+          "interest_expense_income": 3.42,
+          "long_term_debt": 13.49,
+          "net_income": 1.59,
+          "sales": 155,
+          "total_debt": 72.8,
+          "year": 2019
+        },
+        {
+          "capex": -2.6,
+          "cash_and_cash_equivalents": 3.09,
+          "depreciation_and_amortization": 13.3,
+          "ebit": 6.36,
+          "equity": 47.07,
+          "fully_diluted_shares": 37.32,
+          "goodwill": 1.97,
+          "income_taxes": 2.4,
+          "interest_expense_income": 2.84,
+          "leases_cost": 4.5,
+          "long_term_debt": 12.46,
+          "net_income": 6.27,
+          "sales": 189,
+          "total_debt": 60.3,
+          "year": 2020
+        },
+        {
+          "capex": -3.5,
+          "cash_and_cash_equivalents": 18.05,
+          "depreciation_and_amortization": 21.3,
+          "ebit": 9.87,
+          "equity": 73.71,
+          "fully_diluted_shares": 41.34,
+          "goodwill": 3.54,
+          "income_taxes": 2.65,
+          "interest_expense_income": 3.05,
+          "leases_cost": 13.1,
+          "long_term_debt": 23.75,
+          "net_income": 5.04,
+          "sales": 366,
+          "total_debt": 104,
+          "year": 2021
+        },
+        {
+          "capex": -17,
+          "cash_and_cash_equivalents": 36.71,
+          "depreciation_and_amortization": 23.89,
+          "ebit": 29.42,
+          "equity": 93.81,
+          "fully_diluted_shares": 44.1,
+          "goodwill": 4.34,
+          "income_taxes": 8.73,
+          "interest_expense_income": 3.48,
+          "leases_cost": 12,
+          "long_term_debt": 69.2,
+          "net_income": 21.66,
+          "sales": 436,
+          "total_debt": 112,
+          "year": 2022
+        },
+        {
+          "capex": 31,
+          "leases_cost": 0,
+          "sales": 400,
+          "year": 2023
+        },
+        {
+          "capex": 20,
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
+        }
+      ],
+      "key": "-NLzXC0osxFM2w3vQvK6",
+      "margin_ebit": 0.04,
+      "margin_ebitda": 0.12,
+      "multiple_EV_EBITDA": 6,
+      "multiple_P_FCF": 11,
+      "name": "Titanium Transportation Group Inc",
+      "notes": "Fuel surcharge not taken into account for the calculations, not included in revenue.\nFrom 2020:\nCapex is net capex so acquisition - proceeds from disposition, can see negative values as most trucks are leased and eventually as part of the lease they become property of TTNM and then they are selling them.\nLeases are net leases so repayment of leases (in financial cash flow) - proceeds from finance leases (leasing back of trucks to freelance drivers.\n\nRevenue for 2023 was included as 400 because of potential recession.\n\nAccording to conference call of 2022 Q3 earnings presentation, they will face a capex of 31M next year, so included in 2023, in 2024 reduced capex to ~1/4 of EBITDA (as average historically).",
+      "price": 2.31,
+      "sales_growth": 0.15,
+      "summary": "Historically TTNM has been listed at 9x EV/EBITDA, 23x PER\nCompetitors Fedex, UPS, JB Hunt are listed at average 10x LTM EV EBITDA, ",
+      "tax_rate": 0.28,
+      "thesis": "- What is the company's business?\nTransportation company in two segments.\nThe Logistics segment provides non-asset-based broker services, which include ancillary transportation services, such as third party logistics and freight forwarding services.\nTruck transportation provides pickup and delivery\n- How does the company earn money?\n- How is growth? Organic, M&A?\n- How is the market is operating within? Grows? Which countries operates in?\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables (measures taken since 2016)\nFedex 9,5x EV/EBITDA, 35x PER\nUPS 11,5x EV/EBITDA, 25x PER\nJB Hunt 11,5x EV/EBITDA, 24x PER\n- Why are the stocks cheap?",
+      "ticker": "TTNM",
+      "update_date": "21/01/2023"
+    },
+    "-NPvlc_eU_S2mmxEm1ml": {
+      "currency": "CAD",
+      "current_year": 2022,
+      "historic_data": [
+        {
+          "capex": 1.21,
+          "cash_and_cash_equivalents": 1.05,
+          "depreciation_and_amortization": 0.61,
+          "ebitda": 2.45,
+          "equity": 0.52,
+          "fully_diluted_shares": 5.94,
+          "goodwill": 1.84,
+          "income_taxes": -0.14,
+          "interest_expense_income": 0.76,
+          "leases_cost": 0,
+          "minority_interest": 0,
+          "sales": 9.6,
+          "total_debt": 8.11,
+          "year": 2016
+        },
+        {
+          "capex": 1.19,
+          "cash_and_cash_equivalents": 2.25,
+          "depreciation_and_amortization": 0.97,
+          "ebitda": 2.91,
+          "equity": 6.04,
+          "fully_diluted_shares": 9.42,
+          "goodwill": 1.72,
+          "income_taxes": -0.49,
+          "interest_expense_income": 0.35,
+          "sales": 11.95,
+          "total_debt": 3.79,
+          "year": 2017
+        },
+        {
+          "capex": 1.63,
+          "cash_and_cash_equivalents": 8.83,
+          "depreciation_and_amortization": 1.18,
+          "ebitda": 3.52,
+          "equity": 19.95,
+          "fully_diluted_shares": 11.4,
+          "goodwill": 4.81,
+          "income_taxes": -0.32,
+          "interest_expense_income": 0.28,
+          "sales": 14.66,
+          "total_debt": 5.2,
+          "year": 2018
+        },
+        {
+          "capex": 2.71,
+          "cash_and_cash_equivalents": 10.06,
+          "depreciation_and_amortization": 2.63,
+          "ebitda": 5.04,
+          "equity": 29.9,
+          "fully_diluted_shares": 14.49,
+          "goodwill": 14.1,
+          "income_taxes": 0.04,
+          "interest_expense_income": 0.63,
+          "sales": 22.41,
+          "total_debt": 19.27,
+          "year": 2019
+        },
+        {
+          "capex": 2.56,
+          "cash_and_cash_equivalents": 2.84,
+          "depreciation_and_amortization": 6,
+          "ebitda": 5.94,
+          "equity": 30.41,
+          "fully_diluted_shares": 15.85,
+          "goodwill": 19.75,
+          "income_taxes": -0.53,
+          "interest_expense_income": 1,
+          "leases_cost": 0.86,
+          "sales": 25.44,
+          "total_debt": 23.88,
+          "year": 2020
+        },
+        {
+          "capex": 4.8,
+          "cash_and_cash_equivalents": 9.66,
+          "depreciation_and_amortization": 7.2,
+          "ebitda": 9.19,
+          "equity": 40.36,
+          "fully_diluted_shares": 15.98,
+          "goodwill": 22.66,
+          "income_taxes": 0.77,
+          "interest_expense_income": 1.22,
+          "leases_cost": 1.15,
+          "sales": 36.2,
+          "total_debt": 30.33,
+          "year": 2021
+        },
+        {
+          "capex": 6.87,
+          "cash_and_cash_equivalents": 10.98,
+          "depreciation_and_amortization": 5.6,
+          "ebitda": 15.32,
+          "equity": 48.29,
+          "fully_diluted_shares": 18.2,
+          "goodwill": 24.79,
+          "income_taxes": 1.91,
+          "interest_expense_income": 1.66,
+          "sales": 52.24,
+          "total_debt": 32.85,
+          "year": 2022
+        },
+        {
+          "year": 2023
+        },
+        {
+          "year": 2024
+        },
+        {
+          "year": 2025
+        },
+        {
+          "year": 2026
+        },
+        {
+          "year": 2027
+        }
+      ],
+      "key": "-NPvlc_eU_S2mmxEm1ml",
+      "margin_ebitda": 0.27,
+      "multiple_EV_EBITDA": 8.5,
+      "name": "RediShred Capital Corp",
+      "notes": "Since 2020 data picked from TIKR and corrected with annual report data.",
+      "price": 3.82,
+      "sales_growth": 0.2,
+      "summary": "Sales growth of ~30% CAGR over the last 10 years, margin ebitda has been increasing to ~28%, and Net debt / EBITDA of 2x.\nHistorically listed at average 8,5 NTM EV/EBITDA.",
+      "tax_rate": 0.24,
+      "thesis": "- What is the company's business?\nShredding & destruction services and electronic waste disposal via franchise, corporate and corporate locations.\n- How does the company earn money?\n80% Shredding services\n15% Sale of recycled paper\n5% Royalties + Electronic waste services\n- How is growth? Organic, M&A?\nM&A:\n- Proshred Philadelphia 2.8M revenue 2021, 32-37% EBITDA margin, cost of acquisition 7.3 - 8.4M -> bought at 7-8x EBITDA\n- AMERICAN SECURITY SHREDDING CORP revenue 4.1M 2020, 4.6M 2021 EBITDA 32-35% -> ~1.35M 2020, ~1.51M 2021, cost of acquisition 5.15M on closing and 3.4M potential extra earnout -> 2021 ~3.8-6.3x EBITDA, 2022 ~3.4-5.7x EBITDA\n- How is the market is operating within? Grows? Which countries operates in?\nThe market is about 3.6B USD / year, very fragmented with many independents and only a handful of large providers.\nUS Paper shredding market was valuated at 1.7B at 2018 and expect to grow at 7.8% CAGR from 2019 to 2025.\n- ROE & ROIC\n- Competitive advantage\n- Risks\n- Insiders & managers\n- How does it behave in crisis periods?\n- Competitors & Comparables\n  - Competitors:\n    - Iron Mountain\n    - Shred it America\n\n- Why are the stocks cheap?",
+      "ticker": "KUT",
+      "update_date": "09/03/2023"
     }
   }
 }
